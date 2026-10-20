@@ -1,0 +1,12 @@
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.pytest_cache/
+__pycache__/
+*.pyc
+allure-results/
+~$*
+results/tmp/
+evidence/tmp/

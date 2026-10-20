@@ -1,0 +1,6 @@
+# Sau khi cài xong, TV1 chạy `pip freeze` để ghim đúng phiên bản cho cả nhóm
+selenium>=4.20
+pytest>=8.0
+pytest-html>=4.1
+webdriver-manager>=4.0
+python-dotenv>=1.0
