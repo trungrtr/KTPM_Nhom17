@@ -25,7 +25,7 @@ def pytest_runtest_makereport(item, call):
     rep = outcome.get_result()
     if rep.when != "call":
         return
-    drv = item.funcargs.get("driver")
+    drv = item.funcargs.get("driver") or getattr(item.funcargs.get("auth_account_page", None), "driver", None)
     tc_id = "_".join(item.name.split("_")[1:3])  # test_REG_01_xxx -> REG_01
     if rep.failed and drv:
         EVIDENCE_AUTO.mkdir(parents=True, exist_ok=True)

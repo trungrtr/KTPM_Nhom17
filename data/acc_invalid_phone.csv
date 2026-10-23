@@ -1,0 +1,5 @@
+tc_id,invalid_phone,description,expected_error
+ACC-04a,09abc,SĐT chứa chữ cái (Equivalence Partitioning),Số điện thoại không hợp lệ
+ACC-04b,090123,SĐT thiếu ký tự - 6 số (Boundary Value Analysis),Số điện thoại không hợp lệ
+ACC-04c,0912345678901,SĐT thừa ký tự - 13 số (Boundary Value Analysis),Số điện thoại không hợp lệ
+ACC-04d,0000000000,SĐT đầu số không hợp lệ tại VN,Số điện thoại không hợp lệ
