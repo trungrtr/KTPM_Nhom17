@@ -1,0 +1,5 @@
+quantity,rule
+0,below_minimum
+-1,below_minimum
+99999,discover_maximum
+abc,non_numeric

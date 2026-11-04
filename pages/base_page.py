@@ -3,7 +3,6 @@ from datetime import datetime
 from pathlib import Path
 
 from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
@@ -13,12 +12,8 @@ EVIDENCE_DIR = Path(__file__).resolve().parent.parent / "evidence"
 
 
 class BasePage:
-    # Locator popup quảng cáo, cookie, modal chào mừng Coolmate
-    POPUP_CLOSE_LOCATORS = [
-        (By.XPATH, "//button[contains(., 'Chấp nhận tất cả')]"),
-        (By.XPATH, "//button[contains(@class, 'rounded-full') and (contains(., 'Close') or contains(@class, 'bg-neutral-900'))]"),
-        (By.CSS_SELECTOR, "button[aria-label='Close']"),
-    ]
+    # Locator popup quảng cáo/cookie: điền sau khi khảo sát site thật
+    POPUP_CLOSE_LOCATORS = []  # ví dụ: [(By.CSS_SELECTOR, "button.close")]
 
     def __init__(self, driver):
         self.driver = driver
@@ -27,6 +22,7 @@ class BasePage:
     # ---- điều hướng
     def open(self, path=""):
         self.driver.get(config.BASE_URL.rstrip("/") + path)
+        self.dismiss_popups()
         return self
 
     # ---- chờ tường minh (không dùng time.sleep)
@@ -52,28 +48,9 @@ class BasePage:
 
     def type(self, locator, text, clear=True):
         el = self.visible(locator)
-        self.scroll_to(locator)
-        js_setter = """
-        const input = arguments[0];
-        const value = arguments[1];
-        const nativeSetter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value')?.set;
-        if (nativeSetter) {
-            nativeSetter.call(input, value);
-        } else {
-            input.value = value;
-        }
-        input.dispatchEvent(new Event('input', { bubbles: true }));
-        input.dispatchEvent(new Event('change', { bubbles: true }));
-        """
-        try:
-            self.driver.execute_script(js_setter, el, text)
-        except Exception:
-            if clear:
-                try:
-                    el.clear()
-                except Exception:
-                    pass
-            el.send_keys(text)
+        if clear:
+            el.clear()
+        el.send_keys(text)
 
     def text_of(self, locator):
         return self.visible(locator).text.strip()
@@ -84,19 +61,9 @@ class BasePage:
         return el
 
     def dismiss_popups(self):
-        import time
-        close_selectors = [
-            "//button[contains(@class, 'absolute') and contains(@class, 'rounded-full') and (contains(., 'Close') or contains(@class, 'right-'))]",
-            "//button[text()='Close']",
-            "//button[contains(., 'Chấp nhận tất cả')]"
-        ]
-        for sel in close_selectors:
-            try:
-                for b in self.driver.find_elements(By.XPATH, sel):
-                    self.driver.execute_script("arguments[0].click();", b)
-                    time.sleep(0.3)
-            except Exception:
-                pass
+        for locator in self.POPUP_CLOSE_LOCATORS:
+            if self.is_visible(locator, timeout=1):
+                self.click(locator)
 
     # ---- bằng chứng
     def take_screenshot(self, name, sub="manual"):
