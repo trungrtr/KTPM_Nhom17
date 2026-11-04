@@ -1,4 +1,7 @@
-"""Fixture dùng chung + hook chụp ảnh khi fail + ghi results/results.csv. Chỉ TV1 sửa file này."""
+"""Fixture dùng chung + hook chụp ảnh khi fail + ghi results/results.csv.
+
+Mỗi lần chạy pytest sẽ tạo CSV mới (không nối thêm vào kết quả cũ).
+"""
 import csv
 from datetime import datetime
 from pathlib import Path
@@ -10,6 +13,13 @@ from utils.driver_factory import create_driver
 ROOT = Path(__file__).resolve().parent
 RESULTS_CSV = ROOT / "results" / "results.csv"
 EVIDENCE_AUTO = ROOT / "evidence" / "auto"
+
+
+def pytest_sessionstart(session):
+    """Xoá CSV cũ khi bắt đầu phiên chạy mới để chỉ lưu kết quả lần chạy mới nhất."""
+    RESULTS_CSV.parent.mkdir(parents=True, exist_ok=True)
+    if RESULTS_CSV.exists():
+        RESULTS_CSV.unlink()
 
 
 @pytest.fixture
@@ -25,7 +35,7 @@ def pytest_runtest_makereport(item, call):
     rep = outcome.get_result()
     if rep.when != "call":
         return
-    drv = item.funcargs.get("driver") or getattr(item.funcargs.get("auth_account_page", None), "driver", None)
+    drv = item.funcargs.get("driver")
     tc_id = "_".join(item.name.split("_")[1:3])  # test_REG_01_xxx -> REG_01
     if rep.failed and drv:
         EVIDENCE_AUTO.mkdir(parents=True, exist_ok=True)
