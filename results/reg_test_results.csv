@@ -1,0 +1,15 @@
+﻿Test_ID,Status,Duration,Timestamp,Browser,Auto_Status,Manual_Status,Method,Notes
+REG-01,passed (manual),,,,skipped,passed,Manual,Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium. Duration/Timestamp/Browser để trống: không có thời gian thực hiện Manual; thời gian Selenium chỉ ở raw CSV.
+REG-02,passed (auto),5.594,2026-11-11T22:54:15,chrome,passed,not confirmed,Auto,Nguồn Auto: reg_pytest_raw.csv; 1 lượt.
+REG-03,passed (auto + manual),22.374,2026-11-11T22:54:37,chrome,passed,passed,Auto + Manual,Nguồn Auto: reg_pytest_raw.csv; 4 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.
+REG-04,passed (auto),28.185,2026-11-11T22:55:05,chrome,passed,not confirmed,Auto,Nguồn Auto: reg_pytest_raw.csv; 5 lượt.
+REG-05,passed (auto),24.312,2026-11-11T22:55:30,chrome,passed,not confirmed,Auto,Nguồn Auto: reg_pytest_raw.csv; 4 lượt.
+REG-06,passed (manual),,,,skipped,passed,Manual,Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium. Duration/Timestamp/Browser để trống: không có thời gian thực hiện Manual; thời gian Selenium chỉ ở raw CSV.
+REG-07,passed (manual),,,,skipped,passed,Manual,Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium. Duration/Timestamp/Browser để trống: không có thời gian thực hiện Manual; thời gian Selenium chỉ ở raw CSV.
+REG-08,passed (auto),5.788,2026-11-11T22:55:42,chrome,passed,not confirmed,Auto,Nguồn Auto: reg_pytest_raw.csv; 1 lượt.
+REG-09,skipped,6.962,2026-11-11T22:55:49,chrome,skipped,not confirmed,Auto,"Nguồn Auto: reg_pytest_raw.csv; 2 lượt. Chưa kiểm thử đăng ký thành công tại min/min+1; cần quy tắc mật khẩu, dữ liệu mới và OTP/Turnstile hợp lệ."
+REG-10,skipped,5.863,2026-11-11T22:55:55,chrome,skipped,not confirmed,Auto,Nguồn Auto: reg_pytest_raw.csv; 1 lượt. N/A: DOM đã kiểm tra không có trường xác nhận mật khẩu; bằng chứng reg_dom_inspection.json.
+REG-11,passed (manual),,,,skipped,passed,Manual,Nguồn Auto: reg_pytest_raw.csv; 4 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium. Duration/Timestamp/Browser để trống: không có thời gian thực hiện Manual; thời gian Selenium chỉ ở raw CSV.
+REG-12,passed (manual),,,,skipped,passed,Manual,Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium. Duration/Timestamp/Browser để trống: không có thời gian thực hiện Manual; thời gian Selenium chỉ ở raw CSV.
+REG-13,passed (manual),,,,skipped,passed,Manual,Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium. Duration/Timestamp/Browser để trống: không có thời gian thực hiện Manual; thời gian Selenium chỉ ở raw CSV.
+REG-14,passed (auto + manual),5.684,2026-11-11T22:56:31,chrome,passed,passed,Auto + Manual,Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.

@@ -1,0 +1,15 @@
+﻿Test Case ID,Loại,Kết quả Auto,Kết quả Manual,Kết quả tổng hợp,Ghi chú
+REG-01,M,Skipped,Passed (Manual),Passed (Manual),Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.
+REG-02,A,Passed,Chưa xác nhận,Passed (Auto),Nguồn Auto: reg_pytest_raw.csv; 1 lượt.
+REG-03,A+M,Passed,Passed (Manual),Passed (Auto + Manual),Nguồn Auto: reg_pytest_raw.csv; 4 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.
+REG-04,A,Passed,Chưa xác nhận,Passed (Auto),Nguồn Auto: reg_pytest_raw.csv; 5 lượt.
+REG-05,A,Passed,Chưa xác nhận,Passed (Auto),Nguồn Auto: reg_pytest_raw.csv; 4 lượt.
+REG-06,M,Skipped,Passed (Manual),Passed (Manual),Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.
+REG-07,M,Skipped,Passed (Manual),Passed (Manual),Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.
+REG-08,A,Passed,Chưa xác nhận,Passed (Auto),Nguồn Auto: reg_pytest_raw.csv; 1 lượt.
+REG-09,A,Skipped,Chưa xác nhận,Skipped,"Nguồn Auto: reg_pytest_raw.csv; 2 lượt. Chưa kiểm thử đăng ký thành công tại min/min+1; cần quy tắc mật khẩu, dữ liệu mới và OTP/Turnstile hợp lệ."
+REG-10,A,Skipped,Chưa xác nhận,Skipped,Nguồn Auto: reg_pytest_raw.csv; 1 lượt. N/A: DOM đã kiểm tra không có trường xác nhận mật khẩu; bằng chứng reg_dom_inspection.json.
+REG-11,M,Skipped,Passed (Manual),Passed (Manual),Nguồn Auto: reg_pytest_raw.csv; 4 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.
+REG-12,M,Skipped,Passed (Manual),Passed (Manual),Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.
+REG-13,M,Skipped,Passed (Manual),Passed (Manual),Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.
+REG-14,A+M,Passed,Passed (Manual),Passed (Auto + Manual),Nguồn Auto: reg_pytest_raw.csv; 1 lượt. Manual: người dùng xác nhận đã kiểm thử thành công trong yêu cầu; không phải log Selenium.
