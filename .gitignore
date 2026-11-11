@@ -10,9 +10,5 @@ allure-results/
 ~$*
 results/tmp/
 evidence/tmp/
-
-# Bao ve tai khoan va mat khau
-.env
-.env.txt
-.env.*
-!.env.example
+# Ignore all PNG images
+*.png

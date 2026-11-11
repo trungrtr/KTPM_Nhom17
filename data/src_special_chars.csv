@@ -1,0 +1,4 @@
+tc_id,keyword,description
+SRC-08a,12345,Chỉ gồm số (EP)
+SRC-08b,"<>""'%&",Ký tự đặc biệt / HTML
+SRC-08c,😀,Emoji

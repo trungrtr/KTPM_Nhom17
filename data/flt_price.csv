@@ -1,0 +1,5 @@
+tc_id,label,min,max,description
+FLT-02a,0 - 200.000đ,0,200000,Mức giá thấp nhất
+FLT-02b,200.000đ - 300.000đ,200000,300000,Mức giá giữa
+FLT-02c,300.000đ - 500.000đ,300000,500000,Mức giá giữa
+FLT-02d,>500.000đ,500000,100000000,Mức giá cao nhất
