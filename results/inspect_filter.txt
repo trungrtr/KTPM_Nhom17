@@ -1,0 +1,236 @@
+Trang kiểm tra: https://www.coolmate.me/collection/ao-thun-nam
+--- A. Trang danh mục khi CHƯA lọc ---
+URL: https://www.coolmate.me/collection/ao-thun-nam
+Tổng số liên kết sản phẩm trên trang: 58
+Chuỗi cha của sản phẩm đầu tiên (tìm khung chứa danh sách chính = dòng có số sản phẩm gần bằng tổng):
+   0 <a class="block h-full w-full"> số sản phẩm bên trong=0
+   1 <div class="group relative"> số sản phẩm bên trong=1
+   2 <figure class="space-y-3"> số sản phẩm bên trong=3
+   3 <div class="relative w-full shrink-0 grow-0"> số sản phẩm bên trong=3
+   4 <div class="grid gap-3 md:grid-cols-4 grid-cols-2 gap-y-4 md:gap-y-8 lg:grid-cols-"> số sản phẩm bên trong=53
+   5 <div class="w-full flex-1"> số sản phẩm bên trong=53
+   6 <div class="flex flex-1 flex-col gap-6"> số sản phẩm bên trong=53
+   7 <div class="flex items-start gap-5"> số sản phẩm bên trong=53
+Sản phẩm giá 200.000đ (5 mục đầu):
+   https://www.coolmate.me/product/ao-the-thao-nam-promax- | x=0 y=134 | trong header/menu: false | trong footer: false | cha: em.
+   https://www.coolmate.me/product/ao-thun-nam-cotton-comp | x=0 y=134 | trong header/menu: false | trong footer: false | cha: em.
+   https://www.coolmate.me/product/ao-thun-nam-chay-bo-gra | x=0 y=134 | trong header/menu: false | trong footer: false | cha: em.
+   https://www.coolmate.me/product/ao-thun-100-cotton-220g | x=0 y=134 | trong header/menu: false | trong footer: false | cha: em.
+   https://www.coolmate.me/product/ao-thun-nu-chay-bo-core | x=0 y=134 | trong header/menu: false | trong footer: false | cha: em.
+
+--- B. Tiêu đề các nhóm bộ lọc ---
+  'Kích thước': 2 phần tử, hiển thị 0
+  'Màu sắc': 2 phần tử, hiển thị 0
+  'Giá': 2 phần tử, hiển thị 0
+
+=== Nhãn 'S' ===
+  phần tử mang chữ này (đã chuẩn hóa khoảng trắng/dấu): 8 | XPath chữ-khớp-hoàn-toàn mà test đang dùng khớp: 78
+   [0] <li> class='' x=125 y=1088 57x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3 < div.overflow-hidden text-sm transition-all d
+       html: <li><a href="/collection/ao-thun-nam?size=s" class="flex w-14 cursor-pointer items-center justify-center rounded-md border bg-light px-3 py-2 text-sm uppercase leading-4.5 no-underline transition-colors ease-linear borde
+   [1] <a> class='flex w-14 cursor-pointer items-center justify-center rounded-md border' x=125 y=1088 56x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: li. < ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3
+       html: <a href="/collection/ao-thun-nam?size=s" class="flex w-14 cursor-pointer items-center justify-center rounded-md border bg-light px-3 py-2 text-sm uppercase leading-4.5 no-underline transition-colors ease-linear border-ne
+   [2] <li> class='' x=402 y=883 48x38 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2] < div.max-lg:hidden
+       html: <li><button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase 
+   [3] <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-' x=402 y=883 48x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: li. < ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2]
+       html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase disa
+   [4] <li> class='' x=638 y=925 48x38 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2] < div.max-lg:hidden
+       html: <li><button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase 
+   [5] <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-' x=638 y=925 48x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: li. < ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2]
+       html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase disa
+   [6] <li> class='' x=873 y=925 48x38 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2] < div.max-lg:hidden
+       html: <li><button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase 
+   [7] <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-' x=873 y=925 48x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: li. < ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2]
+       html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase disa
+  KHÔNG có phần tử nào đang hiển thị -> thử mở lần lượt các nhóm bộ lọc
+   nhóm 'Kích thước': không thấy tiêu đề
+   nhóm 'Màu sắc': không thấy tiêu đề
+   nhóm 'Giá': không thấy tiêu đề
+  Không bấm được vì không có phần tử hiển thị.
+
+=== Nhãn 'M' ===
+  phần tử mang chữ này (đã chuẩn hóa khoảng trắng/dấu): 8 | XPath chữ-khớp-hoàn-toàn mà test đang dùng khớp: 82
+   [0] <li> class='' x=190 y=1088 57x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3 < div.overflow-hidden text-sm transition-all d
+       html: <li><a href="/collection/ao-thun-nam?size=m" class="flex w-14 cursor-pointer items-center justify-center rounded-md border bg-light px-3 py-2 text-sm uppercase leading-4.5 no-underline transition-colors ease-linear borde
+   [1] <a> class='flex w-14 cursor-pointer items-center justify-center rounded-md border' x=190 y=1088 56x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: li. < ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3
+       html: <a href="/collection/ao-thun-nam?size=m" class="flex w-14 cursor-pointer items-center justify-center rounded-md border bg-light px-3 py-2 text-sm uppercase leading-4.5 no-underline transition-colors ease-linear border-ne
+   [2] <li> class='' x=454 y=883 48x38 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2] < div.max-lg:hidden
+       html: <li><button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase 
+   [3] <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-' x=454 y=883 48x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: li. < ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2]
+       html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase disa
+   [4] <li> class='' x=690 y=925 48x38 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2] < div.max-lg:hidden
+       html: <li><button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase 
+   [5] <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-' x=690 y=925 48x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: li. < ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2]
+       html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase disa
+   [6] <li> class='' x=925 y=925 48x38 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2] < div.max-lg:hidden
+       html: <li><button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase 
+   [7] <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-' x=925 y=925 48x36 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: li. < ul.flex flex-wrap items-center gap-1 < div.invisible absolute bottom-2 left-2 z-[2]
+       html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 uppercase disa
+  KHÔNG có phần tử nào đang hiển thị -> thử mở lần lượt các nhóm bộ lọc
+   nhóm 'Kích thước': không thấy tiêu đề
+   nhóm 'Màu sắc': không thấy tiêu đề
+   nhóm 'Giá': không thấy tiêu đề
+  Không bấm được vì không có phần tử hiển thị.
+
+=== Nhãn 'Đen' ===
+  phần tử mang chữ này (đã chuẩn hóa khoảng trắng/dấu): 3 | XPath chữ-khớp-hoàn-toàn mà test đang dùng khớp: 3
+   [0] <li> class='w-15 min-w-15' x=254 y=1239 60x44 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3 < div.overflow-hidden text-sm transition-all d
+       html: <li class="w-15 min-w-15"><a href="/collection/ao-thun-nam-den" class="group flex w-full flex-col items-center justify-start no-underline" aria-label="Filter by color Đen"><span class="block h-6.5 w-6.5 rounded-full bord
+   [1] <a> class='group flex w-full flex-col items-center justify-start no-underline' x=254 y=1239 60x44 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: li.w-15 min-w-15 < ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3
+       html: <a href="/collection/ao-thun-nam-den" class="group flex w-full flex-col items-center justify-start no-underline" aria-label="Filter by color Đen"><span class="block h-6.5 w-6.5 rounded-full border bg-light border-gray-40
+   [2] <p> class='mt-1 text-xs leading-3.5 text-neutral-500 group-hover:text-primary-500' x=273 y=1269 22x14 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: a.group flex w-full flex-col items-center  < li.w-15 min-w-15 < ul.grid grid-cols-5 gap-2 md:grid-cols-4
+       html: <p class="mt-1 text-xs leading-3.5 text-neutral-500 group-hover:text-primary-500">Đen</p>
+  KHÔNG có phần tử nào đang hiển thị -> thử mở lần lượt các nhóm bộ lọc
+   sau khi bấm tiêu đề 'Kích thước': phần tử 'Đen' hiển thị = 0
+   sau khi bấm tiêu đề 'Màu sắc': phần tử 'Đen' hiển thị = 1
+  bấm thật (Selenium): URL ĐỔI -> https://www.coolmate.me/collection/ao-thun-nam-den
+  thấy chip/nút 'Xoá lọc': True
+
+=== Nhãn 'Trắng' ===
+  phần tử mang chữ này (đã chuẩn hóa khoảng trắng/dấu): 3 | XPath chữ-khớp-hoàn-toàn mà test đang dùng khớp: 3
+   [0] <li> class='w-15 min-w-15' x=190 y=1190 60x44 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3 < div.overflow-hidden text-sm transition-all d
+       html: <li class="w-15 min-w-15"><a href="/collection/ao-thun-nam-trang" class="group flex w-full flex-col items-center justify-start no-underline" aria-label="Filter by color Trắng"><span class="block h-6.5 w-6.5 rounded-full 
+   [1] <a> class='group flex w-full flex-col items-center justify-start no-underline' x=190 y=1190 60x44 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: li.w-15 min-w-15 < ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3
+       html: <a href="/collection/ao-thun-nam-trang" class="group flex w-full flex-col items-center justify-start no-underline" aria-label="Filter by color Trắng"><span class="block h-6.5 w-6.5 rounded-full border bg-light border-gra
+   [2] <p> class='mt-1 text-xs leading-3.5 text-neutral-500 group-hover:text-primary-500' x=205 y=1220 28x14 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: a.group flex w-full flex-col items-center  < li.w-15 min-w-15 < ul.grid grid-cols-5 gap-2 md:grid-cols-4
+       html: <p class="mt-1 text-xs leading-3.5 text-neutral-500 group-hover:text-primary-500">Trắng</p>
+  KHÔNG có phần tử nào đang hiển thị -> thử mở lần lượt các nhóm bộ lọc
+   nhóm 'Kích thước': không thấy tiêu đề
+   nhóm 'Màu sắc': không thấy tiêu đề
+   nhóm 'Giá': không thấy tiêu đề
+  Không bấm được vì không có phần tử hiển thị.
+
+=== Nhãn 'Xanh lá' ===
+  phần tử mang chữ này (đã chuẩn hóa khoảng trắng/dấu): 3 | XPath chữ-khớp-hoàn-toàn mà test đang dùng khớp: 3
+   [0] <li> class='w-15 min-w-15' x=125 y=1239 60x44 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3 < div.overflow-hidden text-sm transition-all d
+       html: <li class="w-15 min-w-15"><a href="/collection/ao-thun-nam-xanh-la" class="group flex w-full flex-col items-center justify-start no-underline" aria-label="Filter by color Xanh lá"><span class="block h-6.5 w-6.5 rounded-f
+   [1] <a> class='group flex w-full flex-col items-center justify-start no-underline' x=125 y=1239 60x44 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: li.w-15 min-w-15 < ul.grid grid-cols-5 gap-2 md:grid-cols-4 < div.py-1.5 lg:pt-3
+       html: <a href="/collection/ao-thun-nam-xanh-la" class="group flex w-full flex-col items-center justify-start no-underline" aria-label="Filter by color Xanh lá"><span class="block h-6.5 w-6.5 rounded-full border bg-light border
+   [2] <p> class='mt-1 text-xs leading-3.5 text-neutral-500 group-hover:text-primary-500' x=136 y=1269 38x14 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: a.group flex w-full flex-col items-center  < li.w-15 min-w-15 < ul.grid grid-cols-5 gap-2 md:grid-cols-4
+       html: <p class="mt-1 text-xs leading-3.5 text-neutral-500 group-hover:text-primary-500">Xanh lá</p>
+  KHÔNG có phần tử nào đang hiển thị -> thử mở lần lượt các nhóm bộ lọc
+   sau khi bấm tiêu đề 'Kích thước': phần tử 'Xanh lá' hiển thị = 0
+   sau khi bấm tiêu đề 'Màu sắc': phần tử 'Xanh lá' hiển thị = 1
+  bấm thật (Selenium): URL ĐỔI -> https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  thấy chip/nút 'Xoá lọc': True
+
+=== Nhãn '0 - 200.000đ' ===
+  phần tử mang chữ này (đã chuẩn hóa khoảng trắng/dấu): 4 | XPath chữ-khớp-hoàn-toàn mà test đang dùng khớp: 2
+   [0] <div> class='flex items-center space-x-2' x=60 y=1188 251x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.grid gap-2 < div.py-1.5 lg:pt-3 < div.overflow-hidden text-sm transition-all d
+       html: <div class="flex items-center space-x-2"><div class="flex items-center"><button type="button" role="checkbox" aria-checked="false" data-state="unchecked" value="on" class="peer flex shrink-0 items-center justify-center r
+   [1] <div> class='flex items-center' x=60 y=1188 118x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.flex items-center space-x-2 < div.grid gap-2 < div.py-1.5 lg:pt-3
+       html: <div class="flex items-center"><button type="button" role="checkbox" aria-checked="false" data-state="unchecked" value="on" class="peer flex shrink-0 items-center justify-center rounded border ring-offset-background focu
+   [2] <label> class='ml-2 font-sans font-normal text-neutral-500 disabled:text-neutral-300 ' x=88 y=1188 90x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.flex items-center < div.flex items-center space-x-2 < div.grid gap-2
+       html: <label for="checkbox-0-200000" class="ml-2 font-sans font-normal text-neutral-500 disabled:text-neutral-300 peer-enabled:cursor-pointer peer-disabled:cursor-not-allowed peer-disabled:opacity-70 md:text-base text-base"><a
+   [3] <a> class='[display:contents]' x=0 y=0 0x0 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: label.ml-2 font-sans font-normal text-neutral- < div.flex items-center < div.flex items-center space-x-2
+       html: <a href="/collection/ao-thun-nam?price_range=0-200000" class="[display:contents]" aria-label="Filter by 0 - 200.000đ">0 - 200.000đ</a>
+  KHÔNG có phần tử nào đang hiển thị -> thử mở lần lượt các nhóm bộ lọc
+   nhóm 'Kích thước': không thấy tiêu đề
+   nhóm 'Màu sắc': không thấy tiêu đề
+   nhóm 'Giá': không thấy tiêu đề
+  Không bấm được vì không có phần tử hiển thị.
+
+=== Nhãn '200.000đ - 300.000đ' ===
+  phần tử mang chữ này (đã chuẩn hóa khoảng trắng/dấu): 4 | XPath chữ-khớp-hoàn-toàn mà test đang dùng khớp: 2
+   [0] <div> class='flex items-center space-x-2' x=60 y=1220 251x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.grid gap-2 < div.py-1.5 lg:pt-3 < div.overflow-hidden text-sm transition-all d
+       html: <div class="flex items-center space-x-2"><div class="flex items-center"><button type="button" role="checkbox" aria-checked="false" data-state="unchecked" value="on" class="peer flex shrink-0 items-center justify-center r
+   [1] <div> class='flex items-center' x=60 y=1220 178x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.flex items-center space-x-2 < div.grid gap-2 < div.py-1.5 lg:pt-3
+       html: <div class="flex items-center"><button type="button" role="checkbox" aria-checked="false" data-state="unchecked" value="on" class="peer flex shrink-0 items-center justify-center rounded border ring-offset-background focu
+   [2] <label> class='ml-2 font-sans font-normal text-neutral-500 disabled:text-neutral-300 ' x=88 y=1220 150x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.flex items-center < div.flex items-center space-x-2 < div.grid gap-2
+       html: <label for="checkbox-200000-300000" class="ml-2 font-sans font-normal text-neutral-500 disabled:text-neutral-300 peer-enabled:cursor-pointer peer-disabled:cursor-not-allowed peer-disabled:opacity-70 md:text-base text-bas
+   [3] <a> class='[display:contents]' x=0 y=0 0x0 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: label.ml-2 font-sans font-normal text-neutral- < div.flex items-center < div.flex items-center space-x-2
+       html: <a href="/collection/ao-thun-nam?price_range=200000-300000" class="[display:contents]" aria-label="Filter by 200.000đ - 300.000đ">200.000đ - 300.000đ</a>
+  KHÔNG có phần tử nào đang hiển thị -> thử mở lần lượt các nhóm bộ lọc
+   nhóm 'Kích thước': không thấy tiêu đề
+   nhóm 'Màu sắc': không thấy tiêu đề
+   nhóm 'Giá': không thấy tiêu đề
+  Không bấm được vì không có phần tử hiển thị.
+
+=== Nhãn '300.000đ - 500.000đ' ===
+  phần tử mang chữ này (đã chuẩn hóa khoảng trắng/dấu): 4 | XPath chữ-khớp-hoàn-toàn mà test đang dùng khớp: 2
+   [0] <div> class='flex items-center space-x-2' x=60 y=1249 251x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.grid gap-2 < div.py-1.5 lg:pt-3 < div.overflow-hidden text-sm transition-all d
+       html: <div class="flex items-center space-x-2"><div class="flex items-center"><button type="button" role="checkbox" aria-checked="false" data-state="unchecked" value="on" class="peer flex shrink-0 items-center justify-center r
+   [1] <div> class='flex items-center' x=60 y=1249 178x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.flex items-center space-x-2 < div.grid gap-2 < div.py-1.5 lg:pt-3
+       html: <div class="flex items-center"><button type="button" role="checkbox" aria-checked="false" data-state="unchecked" value="on" class="peer flex shrink-0 items-center justify-center rounded border ring-offset-background focu
+   [2] <label> class='ml-2 font-sans font-normal text-neutral-500 disabled:text-neutral-300 ' x=88 y=1249 150x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.flex items-center < div.flex items-center space-x-2 < div.grid gap-2
+       html: <label for="checkbox-300000-500000" class="ml-2 font-sans font-normal text-neutral-500 disabled:text-neutral-300 peer-enabled:cursor-pointer peer-disabled:cursor-not-allowed peer-disabled:opacity-70 md:text-base text-bas
+   [3] <a> class='[display:contents]' x=0 y=0 0x0 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: label.ml-2 font-sans font-normal text-neutral- < div.flex items-center < div.flex items-center space-x-2
+       html: <a href="/collection/ao-thun-nam?price_range=300000-500000" class="[display:contents]" aria-label="Filter by 300.000đ - 500.000đ">300.000đ - 500.000đ</a>
+  KHÔNG có phần tử nào đang hiển thị -> thử mở lần lượt các nhóm bộ lọc
+   sau khi bấm tiêu đề 'Kích thước': phần tử '300.000đ - 500.000đ' hiển thị = 0
+   sau khi bấm tiêu đề 'Màu sắc': phần tử '300.000đ - 500.000đ' hiển thị = 0
+   sau khi bấm tiêu đề 'Giá': phần tử '300.000đ - 500.000đ' hiển thị = 3
+  bấm thật (Selenium): URL ĐỔI -> https://www.coolmate.me/collection/ao-thun-nam?price_range=300000-500000
+  thấy chip/nút 'Xoá lọc': True
+
+=== Nhãn '>500.000đ' ===
+  phần tử mang chữ này (đã chuẩn hóa khoảng trắng/dấu): 4 | XPath chữ-khớp-hoàn-toàn mà test đang dùng khớp: 2
+   [0] <div> class='flex items-center space-x-2' x=60 y=1281 251x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.grid gap-2 < div.py-1.5 lg:pt-3 < div.overflow-hidden text-sm transition-all d
+       html: <div class="flex items-center space-x-2"><div class="flex items-center"><button type="button" role="checkbox" aria-checked="false" data-state="unchecked" value="on" class="peer flex shrink-0 items-center justify-center r
+   [1] <div> class='flex items-center' x=60 y=1281 107x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.flex items-center space-x-2 < div.grid gap-2 < div.py-1.5 lg:pt-3
+       html: <div class="flex items-center"><button type="button" role="checkbox" aria-checked="false" data-state="unchecked" value="on" class="peer flex shrink-0 items-center justify-center rounded border ring-offset-background focu
+   [2] <label> class='ml-2 font-sans font-normal text-neutral-500 disabled:text-neutral-300 ' x=88 y=1281 79x24 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=True
+       cha: div.flex items-center < div.flex items-center space-x-2 < div.grid gap-2
+       html: <label for="checkbox-&gt;500000" class="ml-2 font-sans font-normal text-neutral-500 disabled:text-neutral-300 peer-enabled:cursor-pointer peer-disabled:cursor-not-allowed peer-disabled:opacity-70 md:text-base text-base">
+   [3] <a> class='[display:contents]' x=0 y=0 0x0 hiển thị=False chữ-gốc-giống-hệt=True có-con-cũng-khớp=False
+       cha: label.ml-2 font-sans font-normal text-neutral- < div.flex items-center < div.flex items-center space-x-2
+       html: <a href="/collection/ao-thun-nam?price_range=%3E500000" class="[display:contents]" aria-label="Filter by &gt;500.000đ">&gt;500.000đ</a>
+  KHÔNG có phần tử nào đang hiển thị -> thử mở lần lượt các nhóm bộ lọc
+   sau khi bấm tiêu đề 'Kích thước': phần tử '>500.000đ' hiển thị = 0
+   sau khi bấm tiêu đề 'Màu sắc': phần tử '>500.000đ' hiển thị = 0
+   sau khi bấm tiêu đề 'Giá': phần tử '>500.000đ' hiển thị = 3
+  bấm thật (Selenium): URL KHÔNG đổi -> https://www.coolmate.me/collection/ao-thun-nam
+  bấm bằng JavaScript: URL KHÔNG đổi -> https://www.coolmate.me/collection/ao-thun-nam
+  thấy chip/nút 'Xoá lọc': False
+
+=== C. Sau khi chọn khoảng giá '300.000đ - 500.000đ' ===
+  không chọn được khoảng giá nên bỏ qua phần này
+
+=== D. Ô sắp xếp ===
+  phần tử 'Mặc định': 3
+   [0] <div> class='relative' x=1124 y=669 hiển thị=False
+       html: <div class="relative"><button type="button" role="combobox" aria-controls="radix-_r_1g_" aria-expanded="false" aria-autocomplete="none" dir="ltr" data-state="closed" class="flex items-center justify-between disabled:curs
+   [1] <button> class='flex items-center justify-between disabled:cursor-not-allowed data-[st' x=1124 y=669 hiển thị=False
+       html: <button type="button" role="combobox" aria-controls="radix-_r_1g_" aria-expanded="false" aria-autocomplete="none" dir="ltr" data-state="closed" class="flex items-center justify-between disabled:cursor-not-allowed data-[s
+   [2] <span> class='' x=1124 y=679 hiển thị=False
+       html: <span style="pointer-events: none;">Mặc định</span>
+
+XONG. Hãy gửi file results\inspect_filter.txt (và ảnh evidence\auto\INSPECT_*.png nếu có).

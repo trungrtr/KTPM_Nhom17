@@ -1,0 +1,1370 @@
+[18:23:28] Đã chọn '0 - 200.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=0-200000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=0-200000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 19, trong đó thẻ có color=... : 19
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - +1 | Áo thun thể thao nam Exdry Sleeve block |  | giá đọc được: [169000, 169000]
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+   - Áo thun chạy bộ nam Essentials |  | 171.000đ | giá đọc được: [171000, 189000, 171000, 189000]
+   - 5.0 | Áo mặc trong Essential Brush Poly cổ trung |  | giá đọc được: [169000, 199000, 169000, 199000]
+   - +1 | 5.0 | T-shirt thể thao nam FlexLine Active | giá đọc được: [180000, 199000, 180000, 199000]
+  giá bán 12 sản phẩm đầu: [169000, 171000, 171000, 169000, 180000, 198000, 180000, 180000, 117000, 108000, 199000, 134000]
+
+[18:24:03] Đã chọn '200.000đ - 300.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=200000-300000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=200000-300000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | +3 | 5.0 | giá đọc được: [225000, 249000, 225000, 249000]
+   - 5.0 | Áo thun thể thao nam Exdry jacquard cổ henley |  | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 279000, 270000, 225000, 259000, 259000, 279000, 216000, 225000, 270000, 299000, 216000]
+
+[18:24:44] Đã chọn '300.000đ - 500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=300000-500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=300000-500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 16, trong đó thẻ có color=... : 16
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - 5.0 | Tshirt cầu lông nam Side Line Smash Energy |  | giá đọc được: [342000, 379000, 342000, 379000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+  giá bán 12 sản phẩm đầu: [319000, 367000, 342000, 315000, 315000, 360000, 360000, 450000, 360000, 459000, 360000, 315000]
+
+[18:25:26] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=%3E500000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 6, trong đó thẻ có color=... : 6
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+  giá bán 12 sản phẩm đầu: [700000, 700000, 700000, 700000, 700000, 700000]
+
+[18:26:14] Đã chọn 'Đen'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | +3 | 5.0 | giá đọc được: [225000, 249000, 225000, 249000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 270000, 225000, 279000, 315000, 450000, 360000, 459000, 216000, 270000]
+
+[18:26:59] Đã chọn 'Trắng'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-trang
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-trang
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +3 | 5.0 | giá đọc được: [225000, 249000, 225000, 249000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+   - Áo thun Doraemon Kỵ Sĩ Đại Dương |  | 225.000đ | giá đọc được: [225000, 249000, 225000, 249000]
+  giá bán 12 sản phẩm đầu: [234000, 225000, 360000, 360000, 225000, 171000, 450000, 360000, 270000, 171000, 216000, 269000]
+
+[18:27:42] Đã chọn 'Xanh lá'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [319000, 315000, 315000, 360000, 360000, 171000, 299000, 171000, 180000, 234000, 360000, 108000]
+
+[18:28:16] Đã chọn 'S'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=s
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=s
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | +3 | 5.0 | giá đọc được: [225000, 249000, 225000, 249000]
+   - 5.0 | Áo thun thể thao nam Exdry jacquard cổ henley |  | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 270000, 225000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[18:29:18] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[18:30:12] Đã chọn 'L'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=l
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=l
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | +3 | 5.0 | giá đọc được: [225000, 249000, 225000, 249000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 225000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[18:30:49] Đã chọn 'XL'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=xl
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=xl
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[18:31:38] Đã chọn 'Đen'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | +3 | 5.0 | giá đọc được: [225000, 249000, 225000, 249000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 270000, 225000, 279000, 315000, 450000, 360000, 459000, 216000, 270000]
+
+[18:31:42] Đã chọn '200.000đ - 300.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 15, trong đó thẻ có color=... : 15
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | +3 | 5.0 | giá đọc được: [225000, 249000, 225000, 249000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+  giá bán 12 sản phẩm đầu: [234000, 279000, 270000, 225000, 279000, 216000, 270000, 269000, 234000, 216000, 234000, 297000]
+
+[18:31:51] Đã chọn 'L'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000&size=l
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000&size=l
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 14, trong đó thẻ có color=... : 14
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | +3 | 5.0 | giá đọc được: [225000, 249000, 225000, 249000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+  giá bán 12 sản phẩm đầu: [234000, 270000, 225000, 279000, 216000, 270000, 269000, 234000, 216000, 234000, 297000, 252000]
+
+[18:32:41] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[18:33:26] Đã chọn 'Hồng'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-hong
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-hong
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 5, trong đó thẻ có color=... : 5
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+   - 4.8 | Tshirt chạy bộ nam Airflow Luman Wave |  | giá đọc được: [216000, 239000, 216000, 239000]
+   - 4.9 | Tshirt chạy bộ nam Graphic Energy |  | giá đọc được: [198000, 219000, 198000, 219000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+  giá bán 12 sản phẩm đầu: [171000, 216000, 216000, 198000, 108000]
+
+[18:33:29] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-hong?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-hong?price_range=%3E500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 0, trong đó thẻ có color=... : 0
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+  (không có sản phẩm) nội dung phần chính của trang: Trang chủ / Tank & Tee / Áo Thun Nam ÁO THUN NAM HỒNG Mặc hàng ngày Mặc ở nhà Thể thao Ẩn bộ lọc Bộ lọc Phù hợp với Mặc hàng ngày Mặc ở nhà Mặc trong Mặc ra đường Mặc vận động Công sở Thể thao Giới tính Nam Unisex Kích thước XS S M L XL 2XL 3XL 4XL Màu sắc Cam Vàng Xanh sáng Nâu Phối màu Đỏ Trắng Tím Đen xám Xanh lá Hồng Đen Xanh đậm Xám Be Xanh lam Xanh ngọc Giá 0 - 200.000đ 200.000đ - 300.000đ 300.000đ - 500.000đ >500.000đ Chất liệu Microfiber Cotton Nylon Kiểu dáng Regular Regular Fit Môn thể
+
+[18:34:09] Đã chọn 'Xanh lá'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [319000, 315000, 315000, 360000, 360000, 171000, 299000, 171000, 180000, 234000, 360000, 108000]
+
+[18:34:12] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la?price_range=%3E500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 0, trong đó thẻ có color=... : 0
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+  (không có sản phẩm) nội dung phần chính của trang: Trang chủ / Tank & Tee / Áo Thun Nam ÁO THUN NAM XANH LÁ Mặc hàng ngày Mặc ở nhà Thể thao Ẩn bộ lọc Bộ lọc Phù hợp với Mặc hàng ngày Mặc ở nhà Mặc trong Mặc ra đường Mặc vận động Công sở Thể thao Giới tính Nam Unisex Kích thước XS S M L XL 2XL 3XL 4XL Màu sắc Cam Vàng Xanh sáng Nâu Phối màu Đỏ Trắng Tím Đen xám Xanh lá Hồng Đen Xanh đậm Xám Be Xanh lam Xanh ngọc Giá 0 - 200.000đ 200.000đ - 300.000đ 300.000đ - 500.000đ >500.000đ Chất liệu Microfiber Cotton Nylon Kiểu dáng Regular Regular Fit Môn 
+
+[18:34:50] Đã sắp xếp 'Giá thấp đến cao'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?sort=price-asc
+  cách áp dụng        : thao tác ô 'Sắp xếp theo'
+  liên kết lọc đã dùng: -
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 19, trong đó thẻ có color=... : 19
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá thấp đến cao | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - NO RESTOCK | +1 | 4.9 | giá đọc được: [79000, 159000, 79000, 159000]
+   - NO RESTOCK | 5.0 | Áo Thun Chạy Bộ Graphic Photic | giá đọc được: [99000, 199000, 99000, 199000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+   - 4.9 | Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [117000, 129000, 117000, 129000]
+   - NO RESTOCK | 5.0 | Áo Thun Bóng Đá Cổ Tròn CFA24 | giá đọc được: [124000, 249000, 124000, 249000]
+  giá bán 12 sản phẩm đầu: [79000, 99000, 108000, 117000, 124000, 134000, 134000, 144000, 153000, 159000, 162000, 169000]
+
+[18:35:27] Đã sắp xếp 'Giá cao đến thấp'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?sort=price-desc
+  cách áp dụng        : thao tác ô 'Sắp xếp theo'
+  liên kết lọc đã dùng: -
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá cao đến thấp | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - SAVING PACKS | +3 | 4.9 | giá đọc được: [700000, 777000, 700000, 777000]
+   - Áo dài tay Training Seamless Body Mapping |  | 459.000đ | giá đọc được: [459000, 499000, 459000, 499000]
+   - +1 | 5.0 | Áo thun cổ V Jacquard Exdry ProActive World Cup | giá đọc được: [450000, 499000, 450000, 499000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - 4.8 | Áo thun cầu lông nam in Abstract Graphic |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [700000, 459000, 450000, 367000, 360000, 360000, 360000, 360000, 359000, 342000, 319000, 319000]
+
+[18:36:00] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[18:36:09] Đã sắp xếp 'Giá thấp đến cao'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m&sort=price-asc
+  cách áp dụng        : thao tác ô 'Sắp xếp theo'
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá thấp đến cao | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - NO RESTOCK | 5.0 | Áo Thun Chạy Bộ Graphic Photic | giá đọc được: [99000, 199000, 99000, 199000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+   - 4.9 | Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [117000, 129000, 117000, 129000]
+   - 4.9 | Áo thun thể thao Mesh |  | giá đọc được: [153000, 169000, 153000, 169000]
+   - 4.9 | Áo Thun Gym Comfort Oversize |  | giá đọc được: [159000, 249000, 159000, 249000]
+  giá bán 12 sản phẩm đầu: [99000, 108000, 117000, 153000, 159000, 162000, 169000, 169000, 171000, 171000, 171000, 171000]
+
+[10:24:28] Đã chọn '0 - 200.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=0-200000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=0-200000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 19, trong đó thẻ có color=... : 19
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - +1 | Áo thun thể thao nam Exdry Sleeve block |  | giá đọc được: [169000, 169000]
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+   - Áo thun chạy bộ nam Essentials |  | 171.000đ | giá đọc được: [171000, 189000, 171000, 189000]
+   - 5.0 | Áo mặc trong Essential Brush Poly cổ trung |  | giá đọc được: [169000, 199000, 169000, 199000]
+   - +1 | 5.0 | T-shirt thể thao nam FlexLine Active | giá đọc được: [180000, 199000, 180000, 199000]
+  giá bán 12 sản phẩm đầu: [169000, 171000, 171000, 169000, 180000, 198000, 180000, 180000, 117000, 108000, 199000, 134000]
+
+[10:25:12] Đã chọn '200.000đ - 300.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=200000-300000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=200000-300000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+   - 5.0 | Áo thun thể thao nam Exdry jacquard cổ henley |  | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 279000, 270000, 259000, 259000, 279000, 216000, 225000, 270000, 299000, 216000, 216000]
+
+[10:25:48] Đã chọn '300.000đ - 500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=300000-500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=300000-500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 16, trong đó thẻ có color=... : 16
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - 5.0 | Tshirt cầu lông nam Side Line Smash Energy |  | giá đọc được: [342000, 379000, 342000, 379000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+  giá bán 12 sản phẩm đầu: [319000, 367000, 342000, 315000, 315000, 360000, 360000, 450000, 360000, 459000, 360000, 315000]
+
+[10:26:32] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=%3E500000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 6, trong đó thẻ có color=... : 6
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+  giá bán 12 sản phẩm đầu: [700000, 700000, 700000, 700000, 700000, 700000]
+
+[10:27:14] Đã chọn 'Đen'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 270000, 279000, 315000, 450000, 360000, 459000, 216000, 270000, 171000]
+
+[10:27:49] Đã chọn 'Trắng'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-trang
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-trang
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+   - Áo thun Doraemon Kỵ Sĩ Đại Dương |  | 225.000đ | giá đọc được: [225000, 249000, 225000, 249000]
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+  giá bán 12 sản phẩm đầu: [234000, 360000, 360000, 225000, 171000, 450000, 360000, 270000, 171000, 216000, 269000, 234000]
+
+[10:28:22] Đã chọn 'Xanh lá'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [319000, 315000, 315000, 360000, 360000, 171000, 299000, 171000, 180000, 234000, 360000, 108000]
+
+[10:28:56] Đã chọn 'S'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=s
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=s
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+   - 5.0 | Áo thun thể thao nam Exdry jacquard cổ henley |  | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000, 360000]
+
+[10:29:49] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[10:30:43] Đã chọn 'L'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=l
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=l
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[10:31:33] Đã chọn 'XL'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=xl
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=xl
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[10:32:30] Đã chọn 'Đen'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 270000, 279000, 315000, 450000, 360000, 459000, 216000, 270000, 171000]
+
+[10:32:40] Đã chọn '200.000đ - 300.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 15, trong đó thẻ có color=... : 15
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+  giá bán 12 sản phẩm đầu: [234000, 279000, 270000, 279000, 216000, 270000, 269000, 234000, 216000, 234000, 297000, 252000]
+
+[10:32:50] Đã chọn 'L'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000&size=l
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000&size=l
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 14, trong đó thẻ có color=... : 14
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+   - 5.0 | Áo thun nam Pickleball Essentials |  | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 270000, 279000, 216000, 270000, 269000, 234000, 216000, 234000, 297000, 252000, 225000]
+
+[10:33:33] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[10:33:37] Đã bấm 'Xoá lọc'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | Thêm nhanh vào giỏ hàng | S | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[10:34:30] Đã chọn 'Hồng'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-hong
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-hong
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 5, trong đó thẻ có color=... : 5
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+   - 4.8 | Tshirt chạy bộ nam Airflow Luman Wave |  | giá đọc được: [216000, 239000, 216000, 239000]
+   - 4.9 | Tshirt chạy bộ nam Graphic Energy |  | giá đọc được: [198000, 219000, 198000, 219000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+  giá bán 12 sản phẩm đầu: [171000, 216000, 216000, 198000, 108000]
+
+[10:34:33] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-hong?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-hong?price_range=%3E500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 0, trong đó thẻ có color=... : 0
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+  (không có sản phẩm) nội dung phần chính của trang: Trang chủ / Tank & Tee / Áo Thun Nam ÁO THUN NAM HỒNG Mặc hàng ngày Mặc ở nhà Thể thao Ẩn bộ lọc Bộ lọc Phù hợp với Mặc hàng ngày Mặc ở nhà Mặc trong Mặc ra đường Mặc vận động Công sở Thể thao Giới tính Nam Unisex Kích thước XS S M L XL 2XL 3XL 4XL Màu sắc Cam Vàng Xanh sáng Nâu Phối màu Đỏ Trắng Tím Đen xám Xanh lá Hồng Đen Xanh đậm Xám Be Xanh lam Xanh ngọc Giá 0 - 200.000đ 200.000đ - 300.000đ 300.000đ - 500.000đ >500.000đ Chất liệu Microfiber Cotton Nylon Kiểu dáng Regular Regular Fit Môn thể
+
+[10:35:08] Đã chọn 'Xanh lá'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [319000, 315000, 315000, 360000, 360000, 171000, 299000, 171000, 180000, 234000, 360000, 108000]
+
+[10:35:11] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la?price_range=%3E500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 0, trong đó thẻ có color=... : 0
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+  (không có sản phẩm) nội dung phần chính của trang: Trang chủ / Tank & Tee / Áo Thun Nam ÁO THUN NAM XANH LÁ Mặc hàng ngày Mặc ở nhà Thể thao Ẩn bộ lọc Bộ lọc Phù hợp với Mặc hàng ngày Mặc ở nhà Mặc trong Mặc ra đường Mặc vận động Công sở Thể thao Giới tính Nam Unisex Kích thước XS S M L XL 2XL 3XL 4XL Màu sắc Cam Vàng Xanh sáng Nâu Phối màu Đỏ Trắng Tím Đen xám Xanh lá Hồng Đen Xanh đậm Xám Be Xanh lam Xanh ngọc Giá 0 - 200.000đ 200.000đ - 300.000đ 300.000đ - 500.000đ >500.000đ Chất liệu Microfiber Cotton Nylon Kiểu dáng Regular Regular Fit Môn 
+
+[10:35:38] Đã sắp xếp 'Giá thấp đến cao'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?sort=price-asc
+  cách áp dụng        : thao tác ô 'Sắp xếp theo'
+  liên kết lọc đã dùng: -
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 19, trong đó thẻ có color=... : 19
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá thấp đến cao | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - NO RESTOCK | +1 | 4.9 | giá đọc được: [79000, 159000, 79000, 159000]
+   - NO RESTOCK | 5.0 | Áo Thun Chạy Bộ Graphic Photic | giá đọc được: [99000, 199000, 99000, 199000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+   - 4.9 | Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [117000, 129000, 117000, 129000]
+   - NO RESTOCK | 5.0 | Áo Thun Bóng Đá Cổ Tròn CFA24 | giá đọc được: [124000, 249000, 124000, 249000]
+  giá bán 12 sản phẩm đầu: [79000, 99000, 108000, 117000, 124000, 134000, 134000, 144000, 153000, 159000, 162000, 169000]
+
+[10:36:34] Đã sắp xếp 'Giá cao đến thấp'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?sort=price-desc
+  cách áp dụng        : mở thẳng URL ?sort=price-desc (không thao tác được ô sắp xếp)
+  liên kết lọc đã dùng: -
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá cao đến thấp | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - SAVING PACKS | +3 | 4.9 | giá đọc được: [700000, 777000, 700000, 777000]
+   - Áo dài tay Training Seamless Body Mapping |  | 459.000đ | giá đọc được: [459000, 499000, 459000, 499000]
+   - +1 | 5.0 | Áo thun cổ V Jacquard Exdry ProActive World Cup | giá đọc được: [450000, 499000, 450000, 499000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - 4.8 | Áo thun cầu lông nam in Abstract Graphic |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [700000, 459000, 450000, 367000, 360000, 360000, 360000, 360000, 359000, 342000, 319000, 319000]
+
+[10:37:07] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[10:37:34] Đã sắp xếp 'Giá thấp đến cao'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m&sort=price-asc
+  cách áp dụng        : mở thẳng URL ?sort=price-asc (không thao tác được ô sắp xếp)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá thấp đến cao | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - NO RESTOCK | 5.0 | Áo Thun Chạy Bộ Graphic Photic | giá đọc được: [99000, 199000, 99000, 199000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+   - 4.9 | Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [117000, 129000, 117000, 129000]
+   - 4.9 | Áo thun thể thao Mesh |  | giá đọc được: [153000, 169000, 153000, 169000]
+   - 4.9 | Áo Thun Gym Comfort Oversize |  | giá đọc được: [159000, 249000, 159000, 249000]
+  giá bán 12 sản phẩm đầu: [99000, 108000, 117000, 153000, 159000, 162000, 169000, 169000, 171000, 171000, 171000, 171000]
+
+[11:54:42] Đã chọn '0 - 200.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=0-200000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=0-200000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 19, trong đó thẻ có color=... : 19
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - +1 | Áo thun thể thao nam Exdry Sleeve block |  | giá đọc được: [169000, 169000]
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+   - Áo thun chạy bộ nam Essentials |  | 171.000đ | giá đọc được: [171000, 189000, 171000, 189000]
+   - 5.0 | Áo mặc trong Essential Brush Poly cổ trung |  | giá đọc được: [169000, 199000, 169000, 199000]
+   - +1 | 5.0 | T-shirt thể thao nam FlexLine Active | giá đọc được: [180000, 199000, 180000, 199000]
+  giá bán 12 sản phẩm đầu: [169000, 171000, 171000, 169000, 180000, 198000, 180000, 180000, 117000, 108000, 199000, 134000]
+
+[11:55:16] Đã chọn '200.000đ - 300.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=200000-300000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=200000-300000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+   - 5.0 | Áo thun thể thao nam Exdry jacquard cổ henley |  | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 279000, 270000, 259000, 259000, 279000, 216000, 225000, 270000, 299000, 216000, 216000]
+
+[11:55:43] Đã chọn '300.000đ - 500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=300000-500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=300000-500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 16, trong đó thẻ có color=... : 16
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - 5.0 | Tshirt cầu lông nam Side Line Smash Energy |  | giá đọc được: [342000, 379000, 342000, 379000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+  giá bán 12 sản phẩm đầu: [319000, 367000, 342000, 315000, 315000, 360000, 360000, 450000, 360000, 459000, 360000, 315000]
+
+[11:56:18] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=%3E500000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 6, trong đó thẻ có color=... : 6
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+  giá bán 12 sản phẩm đầu: [700000, 700000, 700000, 700000, 700000, 700000]
+
+[11:56:52] Đã chọn 'Đen'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 270000, 279000, 315000, 450000, 360000, 459000, 216000, 270000, 171000]
+
+[11:57:36] Đã chọn 'Trắng'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-trang
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-trang
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+   - Áo thun Doraemon Kỵ Sĩ Đại Dương |  | 225.000đ | giá đọc được: [225000, 249000, 225000, 249000]
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+  giá bán 12 sản phẩm đầu: [234000, 360000, 360000, 225000, 171000, 450000, 360000, 270000, 171000, 216000, 269000, 234000]
+
+[11:58:09] Đã chọn 'Xanh lá'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [319000, 315000, 315000, 360000, 360000, 171000, 299000, 171000, 180000, 234000, 360000, 108000]
+
+[11:58:42] Đã chọn 'S'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=s
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=s
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+   - 5.0 | Áo thun thể thao nam Exdry jacquard cổ henley |  | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000, 360000]
+
+[11:59:35] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[12:00:29] Đã chọn 'L'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=l
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=l
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[12:01:12] Đã chọn 'XL'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=xl
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=xl
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[12:01:56] Đã chọn 'Đen'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 270000, 279000, 315000, 450000, 360000, 459000, 216000, 270000, 171000]
+
+[12:02:05] Đã chọn '200.000đ - 300.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 15, trong đó thẻ có color=... : 15
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+  giá bán 12 sản phẩm đầu: [234000, 279000, 270000, 279000, 216000, 270000, 269000, 234000, 216000, 234000, 297000, 252000]
+
+[12:02:14] Đã chọn 'L'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000&size=l
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000&size=l
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 14, trong đó thẻ có color=... : 14
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+   - 5.0 | Áo thun nam Pickleball Essentials |  | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 270000, 279000, 216000, 270000, 269000, 234000, 216000, 234000, 297000, 252000, 225000]
+
+[12:02:54] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[12:02:58] Đã bấm 'Xoá lọc'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | Thêm nhanh vào giỏ hàng | S | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[12:03:36] Đã chọn 'Hồng'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-hong
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-hong
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 5, trong đó thẻ có color=... : 5
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+   - 4.8 | Tshirt chạy bộ nam Airflow Luman Wave |  | giá đọc được: [216000, 239000, 216000, 239000]
+   - 4.9 | Tshirt chạy bộ nam Graphic Energy |  | giá đọc được: [198000, 219000, 198000, 219000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+  giá bán 12 sản phẩm đầu: [171000, 216000, 216000, 198000, 108000]
+
+[12:03:39] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-hong?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-hong?price_range=%3E500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 0, trong đó thẻ có color=... : 0
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+  (không có sản phẩm) nội dung phần chính của trang: Trang chủ / Tank & Tee / Áo Thun Nam ÁO THUN NAM HỒNG Mặc hàng ngày Mặc ở nhà Thể thao Ẩn bộ lọc Bộ lọc Phù hợp với Mặc hàng ngày Mặc ở nhà Mặc trong Mặc ra đường Mặc vận động Công sở Thể thao Giới tính Nam Unisex Kích thước XS S M L XL 2XL 3XL 4XL Màu sắc Cam Vàng Xanh sáng Nâu Phối màu Đỏ Trắng Tím Đen xám Xanh lá Hồng Đen Xanh đậm Xám Be Xanh lam Xanh ngọc Giá 0 - 200.000đ 200.000đ - 300.000đ 300.000đ - 500.000đ >500.000đ Chất liệu Microfiber Cotton Nylon Kiểu dáng Regular Regular Fit Môn thể
+
+[12:04:06] Đã chọn 'Xanh lá'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [319000, 315000, 315000, 360000, 360000, 171000, 299000, 171000, 180000, 234000, 360000, 108000]
+
+[12:04:11] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la?price_range=%3E500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 0, trong đó thẻ có color=... : 0
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+  (không có sản phẩm) nội dung phần chính của trang: Trang chủ / Tank & Tee / Áo Thun Nam ÁO THUN NAM XANH LÁ Mặc hàng ngày Mặc ở nhà Thể thao Ẩn bộ lọc Bộ lọc Phù hợp với Mặc hàng ngày Mặc ở nhà Mặc trong Mặc ra đường Mặc vận động Công sở Thể thao Giới tính Nam Unisex Kích thước XS S M L XL 2XL 3XL 4XL Màu sắc Cam Vàng Xanh sáng Nâu Phối màu Đỏ Trắng Tím Đen xám Xanh lá Hồng Đen Xanh đậm Xám Be Xanh lam Xanh ngọc Giá 0 - 200.000đ 200.000đ - 300.000đ 300.000đ - 500.000đ >500.000đ Chất liệu Microfiber Cotton Nylon Kiểu dáng Regular Regular Fit Môn 
+
+[12:05:08] Đã sắp xếp 'Giá thấp đến cao'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?sort=price-asc
+  cách áp dụng        : mở thẳng URL ?sort=price-asc (không thao tác được ô sắp xếp)
+  liên kết lọc đã dùng: -
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 19, trong đó thẻ có color=... : 19
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá thấp đến cao | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - NO RESTOCK | +1 | 4.9 | giá đọc được: [79000, 159000, 79000, 159000]
+   - NO RESTOCK | 5.0 | Áo Thun Chạy Bộ Graphic Photic | giá đọc được: [99000, 199000, 99000, 199000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+   - 4.9 | Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [117000, 129000, 117000, 129000]
+   - NO RESTOCK | 5.0 | Áo Thun Bóng Đá Cổ Tròn CFA24 | giá đọc được: [124000, 249000, 124000, 249000]
+  giá bán 12 sản phẩm đầu: [79000, 99000, 108000, 117000, 124000, 134000, 134000, 144000, 153000, 159000, 162000, 169000]
+
+[12:05:34] Đã sắp xếp 'Giá cao đến thấp'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?sort=price-desc
+  cách áp dụng        : thao tác ô 'Sắp xếp theo'
+  liên kết lọc đã dùng: -
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá cao đến thấp | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - SAVING PACKS | +3 | 4.9 | giá đọc được: [700000, 777000, 700000, 777000]
+   - Áo dài tay Training Seamless Body Mapping |  | 459.000đ | giá đọc được: [459000, 499000, 459000, 499000]
+   - +1 | 5.0 | Áo thun cổ V Jacquard Exdry ProActive World Cup | giá đọc được: [450000, 499000, 450000, 499000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - 4.8 | Áo thun cầu lông nam in Abstract Graphic |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [700000, 459000, 450000, 367000, 360000, 360000, 360000, 360000, 359000, 342000, 319000, 319000]
+
+[12:06:08] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[12:06:28] Đã sắp xếp 'Giá thấp đến cao'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m&sort=price-asc
+  cách áp dụng        : mở thẳng URL ?sort=price-asc (không thao tác được ô sắp xếp)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá thấp đến cao | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - NO RESTOCK | 5.0 | Áo Thun Chạy Bộ Graphic Photic | giá đọc được: [99000, 199000, 99000, 199000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+   - 4.9 | Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [117000, 129000, 117000, 129000]
+   - NO RESTOCK | 4.3 | Áo thun thể thao Jacquard Active | giá đọc được: [144000, 289000, 144000, 289000]
+   - 4.9 | Áo thun thể thao Mesh |  | giá đọc được: [153000, 169000, 153000, 169000]
+  giá bán 12 sản phẩm đầu: [99000, 108000, 117000, 144000, 153000, 159000, 162000, 169000, 169000, 171000, 171000, 171000]
+
+[11:14:09] Đã chọn '0 - 200.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=0-200000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=0-200000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 19, trong đó thẻ có color=... : 19
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - +1 | Áo thun thể thao nam Exdry Sleeve block |  | giá đọc được: [169000, 169000]
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+   - Áo thun chạy bộ nam Essentials |  | 171.000đ | giá đọc được: [171000, 189000, 171000, 189000]
+   - 5.0 | Áo mặc trong Essential Brush Poly cổ trung |  | giá đọc được: [169000, 199000, 169000, 199000]
+   - +1 | 5.0 | T-shirt thể thao nam FlexLine Active | giá đọc được: [180000, 199000, 180000, 199000]
+  giá bán 12 sản phẩm đầu: [169000, 171000, 171000, 169000, 180000, 198000, 180000, 180000, 117000, 108000, 199000, 134000]
+
+[11:14:51] Đã chọn '200.000đ - 300.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=200000-300000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=200000-300000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+   - 5.0 | Áo thun thể thao nam Exdry jacquard cổ henley |  | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 279000, 270000, 259000, 259000, 279000, 216000, 225000, 270000, 299000, 216000, 216000]
+
+[11:15:33] Đã chọn '300.000đ - 500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=300000-500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=300000-500000
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 16, trong đó thẻ có color=... : 16
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - 5.0 | Tshirt cầu lông nam Side Line Smash Energy |  | giá đọc được: [342000, 379000, 342000, 379000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+  giá bán 12 sản phẩm đầu: [319000, 367000, 342000, 315000, 315000, 360000, 360000, 450000, 360000, 459000, 360000, 315000]
+
+[11:16:06] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?price_range=%3E500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 6, trong đó thẻ có color=... : 6
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+   - SAVING PACKS | 4.9 | Combo 3 Áo Thun Nam Cotton Compact | giá đọc được: [700000, 777000, 700000, 777000]
+  giá bán 12 sản phẩm đầu: [700000, 700000, 700000, 700000, 700000, 700000]
+
+[11:16:50] Đã chọn 'Đen'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 270000, 279000, 315000, 450000, 360000, 459000, 216000, 270000, 171000, 269000]
+
+[11:17:25] Đã chọn 'Trắng'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-trang
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-trang
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+   - Áo thun Doraemon Kỵ Sĩ Đại Dương |  | 225.000đ | giá đọc được: [225000, 249000, 225000, 249000]
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+  giá bán 12 sản phẩm đầu: [234000, 360000, 360000, 225000, 171000, 450000, 360000, 270000, 171000, 216000, 269000, 234000]
+
+[11:18:02] Đã chọn 'Xanh lá'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [319000, 315000, 315000, 360000, 360000, 171000, 299000, 171000, 180000, 234000, 360000, 108000]
+
+[11:18:36] Đã chọn 'S'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=s
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=s
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | 4.9 | Áo thun nam Cotton Compact | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+   - 5.0 | Áo thun thể thao nam Exdry jacquard cổ henley |  | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000, 360000]
+
+[11:19:57] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[11:20:39] Đã chọn 'L'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=l
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=l
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[11:21:20] Đã chọn 'XL'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=xl
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=xl
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Áo tshirt regular chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | giá đọc được: [279000, 279000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 279000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000]
+
+[11:22:14] Đã chọn 'Đen'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 270000, 279000, 315000, 450000, 360000, 459000, 216000, 270000, 171000, 269000]
+
+[11:22:18] Đã chọn '200.000đ - 300.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 14, trong đó thẻ có color=... : 14
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+   - 5.0 | Áo thun nam Pickleball Essentials |  | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 270000, 279000, 216000, 270000, 269000, 234000, 216000, 234000, 297000, 252000, 225000]
+
+[11:22:26] Đã chọn 'L'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000&size=l
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-den?price_range=200000-300000&size=l
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 14, trong đó thẻ có color=... : 14
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - Áo tshirt relax chạy bộ nam 360Reflect™ "Run Safe In The Dark" |  | 279.000đ | giá đọc được: [279000, 279000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+   - 5.0 | Áo thun nam Pickleball Essentials |  | giá đọc được: [270000, 299000, 270000, 299000]
+  giá bán 12 sản phẩm đầu: [234000, 270000, 279000, 216000, 270000, 269000, 234000, 216000, 234000, 297000, 252000, 225000]
+
+[11:23:17] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[11:23:56] Đã chọn 'Hồng'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-hong
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-hong
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 5, trong đó thẻ có color=... : 5
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - +9 | 5.0 | Áo thun thể thao thoáng khí Essentials | giá đọc được: [171000, 189000, 171000, 189000]
+   - Áo thun chạy bộ nam Ventra Gradient |  | 216.000đ | giá đọc được: [216000, 239000, 216000, 239000]
+   - 4.8 | Tshirt chạy bộ nam Airflow Luman Wave |  | giá đọc được: [216000, 239000, 216000, 239000]
+   - 4.9 | Tshirt chạy bộ nam Graphic Energy |  | giá đọc được: [198000, 219000, 198000, 219000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+  giá bán 12 sản phẩm đầu: [171000, 216000, 216000, 198000, 108000]
+
+[11:23:59] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-hong?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-hong?price_range=%3E500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 0, trong đó thẻ có color=... : 0
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+  (không có sản phẩm) nội dung phần chính của trang: Trang chủ / Tank & Tee / Áo Thun Nam ÁO THUN NAM HỒNG Mặc hàng ngày Mặc ở nhà Thể thao Ẩn bộ lọc Bộ lọc Phù hợp với Mặc hàng ngày Mặc ở nhà Mặc trong Mặc ra đường Mặc vận động Công sở Thể thao Giới tính Nam Unisex Kích thước XS S M L XL 2XL 3XL 4XL Màu sắc Cam Vàng Xanh sáng Nâu Phối màu Đỏ Trắng Tím Đen xám Xanh lá Hồng Đen Xanh đậm Xám Be Xanh lam Xanh ngọc Giá 0 - 200.000đ 200.000đ - 300.000đ 300.000đ - 500.000đ >500.000đ Chất liệu Microfiber Cotton Nylon Kiểu dáng Regular Regular Fit Môn thể
+
+[11:24:35] Đã chọn 'Xanh lá'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - 5.0 | Tshirt cầu lông nam Graphic Slash Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - 5.0 | T-shirt cầu lông nam Graphic Faded Smash Energy |  | giá đọc được: [315000, 349000, 315000, 349000]
+   - +2 | 5.0 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ V Zero Mark | giá đọc được: [360000, 399000, 360000, 399000]
+   - +1 | "Phúc Huỳnh x Coolmate" Áo Tshirt Pickleball nam cổ tròn Zero Mark |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [319000, 315000, 315000, 360000, 360000, 171000, 299000, 171000, 180000, 234000, 360000, 108000]
+
+[11:24:38] Đã chọn '>500.000đ'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam-xanh-la?price_range=%3E500000
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam-xanh-la?price_range=%3E500000
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 0, trong đó thẻ có color=... : 0
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+  (không có sản phẩm) nội dung phần chính của trang: Trang chủ / Tank & Tee / Áo Thun Nam ÁO THUN NAM XANH LÁ Mặc hàng ngày Mặc ở nhà Thể thao Ẩn bộ lọc Bộ lọc Phù hợp với Mặc hàng ngày Mặc ở nhà Mặc trong Mặc ra đường Mặc vận động Công sở Thể thao Giới tính Nam Unisex Kích thước XS S M L XL 2XL 3XL 4XL Màu sắc Cam Vàng Xanh sáng Nâu Phối màu Đỏ Trắng Tím Đen xám Xanh lá Hồng Đen Xanh đậm Xám Be Xanh lam Xanh ngọc Giá 0 - 200.000đ 200.000đ - 300.000đ 300.000đ - 500.000đ >500.000đ Chất liệu Microfiber Cotton Nylon Kiểu dáng Regular Regular Fit Môn 
+
+[11:25:06] Đã sắp xếp 'Giá thấp đến cao'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?sort=price-asc
+  cách áp dụng        : thao tác ô 'Sắp xếp theo'
+  liên kết lọc đã dùng: -
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 19, trong đó thẻ có color=... : 19
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá thấp đến cao | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - NO RESTOCK | +1 | 4.9 | giá đọc được: [79000, 159000, 79000, 159000]
+   - NO RESTOCK | 5.0 | Áo Thun Chạy Bộ Graphic Photic | giá đọc được: [99000, 199000, 99000, 199000]
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+   - 4.9 | Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [117000, 129000, 117000, 129000]
+   - NO RESTOCK | 5.0 | Áo Thun Bóng Đá Cổ Tròn CFA24 | giá đọc được: [124000, 249000, 124000, 249000]
+  giá bán 12 sản phẩm đầu: [79000, 99000, 108000, 117000, 124000, 134000, 134000, 144000, 153000, 159000, 162000, 169000]
+
+[11:25:46] Đã sắp xếp 'Giá cao đến thấp'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?sort=price-desc
+  cách áp dụng        : thao tác ô 'Sắp xếp theo'
+  liên kết lọc đã dùng: -
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá cao đến thấp | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - SAVING PACKS | +3 | 4.9 | giá đọc được: [700000, 777000, 700000, 777000]
+   - Áo dài tay Training Seamless Body Mapping |  | 459.000đ | giá đọc được: [459000, 499000, 459000, 499000]
+   - +1 | 5.0 | Áo thun cổ V Jacquard Exdry ProActive World Cup | giá đọc được: [450000, 499000, 450000, 499000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - 4.8 | Áo thun cầu lông nam in Abstract Graphic |  | giá đọc được: [360000, 399000, 360000, 399000]
+  giá bán 12 sản phẩm đầu: [700000, 459000, 450000, 367000, 360000, 360000, 360000, 360000, 359000, 342000, 319000, 319000]
+
+[11:26:26] Đã chọn 'M'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m
+  cách áp dụng        : mở thẳng liên kết (liên kết đang ẩn trong nhóm thu gọn)
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : không
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Mặc định | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +1 | 4.9 | giá đọc được: [234000, 259000, 234000, 259000]
+   - BÁN CHẠY | +2 | 5.0 | giá đọc được: [319000, 357000, 319000, 357000]
+   - BÁN CHẠY | Combo 3 Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [367000, 387000, 367000, 387000]
+   - BÁN CHẠY | 5.0 | Áo Thun Gym Cotton Oversized Comfort Washed | giá đọc được: [270000, 299000, 270000, 299000]
+   - BÁN CHẠY | 5.0 | Áo thun thể thao nam Exdry jacquard cổ tròn | giá đọc được: [259000, 259000]
+  giá bán 12 sản phẩm đầu: [234000, 319000, 367000, 270000, 259000, 259000, 279000, 169000, 342000, 315000, 315000, 216000]
+
+[11:26:36] Đã sắp xếp 'Giá thấp đến cao'
+  url                 : https://www.coolmate.me/collection/ao-thun-nam?size=m&sort=price-asc
+  cách áp dụng        : thao tác ô 'Sắp xếp theo'
+  liên kết lọc đã dùng: https://www.coolmate.me/collection/ao-thun-nam?size=m
+  nút 'Xoá lọc'       : CÓ
+  dòng 'N kết quả'    : None
+  số sản phẩm (khung chính): 20, trong đó thẻ có color=... : 20
+  ô combobox          : VN | hiển thị: true | mở: false ; Giá thấp đến cao | hiển thị: true | mở: false ; số mục role=option đang có trong trang: 0
+   - BÁN CHẠY | +9 | 5.0 | giá đọc được: [108000, 119000, 108000, 119000]
+   - 4.9 | Áo thun nam mặc trong thoáng khí nhanh khô Excool |  | giá đọc được: [117000, 129000, 117000, 129000]
+   - 4.9 | Áo thun thể thao Mesh |  | giá đọc được: [153000, 169000, 153000, 169000]
+   - 4.9 | Áo Thun Gym Comfort Oversize |  | giá đọc được: [159000, 249000, 159000, 249000]
+   - +10 | 5.0 | Áo Thun Nam Thể Thao Promax-S1 | giá đọc được: [162000, 179000, 162000, 179000]
+  giá bán 12 sản phẩm đầu: [108000, 117000, 153000, 159000, 162000, 169000, 169000, 171000, 171000, 171000, 171000, 171000]
+

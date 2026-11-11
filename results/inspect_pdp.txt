@@ -1,0 +1,166 @@
+
+##### Danh sách đã lọc: /collection/ao-thun-nam?size=s  (size lọc = S) #####
+  số sản phẩm trong khung chính: 20; mở 3 sản phẩm đầu
+
+  --- Sản phẩm: https://www.coolmate.me/product/ao-thun-nam-cotton-compact-chong-nhan?color=trang
+   màu 'trang' (đúng liên kết từ danh sách): S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? 4XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? 4XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT?   (dấu * = đang được chọn sẵn)
+      size đã lọc 'S': còn hàng
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   các màu khác của sản phẩm: ['den', 'xam', 'xanh-navy']
+   màu 'den': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'S': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   màu 'xam': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'S': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+
+  --- Sản phẩm: https://www.coolmate.me/product/combo-03-ao-the-thao-nam-coolmate-basics?color=mau-6
+   màu 'mau-6' (đúng liên kết từ danh sách): S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'S': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   các màu khác của sản phẩm: ['mau-2', 'mau-1', 'mau-4', 'mau-5']
+   màu 'mau-2': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'S': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   màu 'mau-1': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'S': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+
+  --- Sản phẩm: https://www.coolmate.me/product/ao-thun-gym-cotton-oversized-comfort-washed?color=den
+   màu 'den' (đúng liên kết từ danh sách): S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? 4XL:HẾT?   (dấu * = đang được chọn sẵn)
+      size đã lọc 'S': còn hàng
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   các màu khác của sản phẩm: ['xam-dam', 'xanh-nhat']
+   màu 'xam-dam': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'S': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neu'
+         html: <button class="relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neutral-600 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 lg:bg-neutral-300">S</butt
+   màu 'xanh-nhat': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'S': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+
+##### Danh sách đã lọc: /collection/ao-thun-nam?size=m  (size lọc = M) #####
+  số sản phẩm trong khung chính: 20; mở 3 sản phẩm đầu
+
+  --- Sản phẩm: https://www.coolmate.me/product/ao-thun-nam-cotton-compact-chong-nhan?color=trang
+   màu 'trang' (đúng liên kết từ danh sách): S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT?   (dấu * = đang được chọn sẵn)
+      size đã lọc 'M': còn hàng
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   các màu khác của sản phẩm: ['den', 'xam', 'xanh-navy']
+   màu 'den': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'M': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   màu 'xam': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'M': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+
+  --- Sản phẩm: https://www.coolmate.me/product/combo-03-ao-the-thao-nam-coolmate-basics?color=mau-6
+   màu 'mau-6' (đúng liên kết từ danh sách): S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'M': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   các màu khác của sản phẩm: ['mau-2', 'mau-1', 'mau-4', 'mau-5']
+   màu 'mau-2': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'M': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   màu 'mau-1': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'M': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+
+  --- Sản phẩm: https://www.coolmate.me/product/ao-tshirt-regular-chay-bo-nam-360reflect?color=den
+   màu 'den' (đúng liên kết từ danh sách): S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? 4XL:HẾT?   (dấu * = đang được chọn sẵn)
+      size đã lọc 'M': còn hàng
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neu'
+         html: <button class="relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neutral-600 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 pointer-events-none cursor
+   các màu khác của sản phẩm: ['tim']
+   màu 'tim': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'M': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neu'
+         html: <button class="relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neutral-600 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 pointer-events-none cursor
+
+##### Danh sách đã lọc: /collection/ao-thun-nam-den?price_range=200000-300000&size=l  (size lọc = L) #####
+  số sản phẩm trong khung chính: 15; mở 3 sản phẩm đầu
+
+  --- Sản phẩm: https://www.coolmate.me/product/ao-thun-nam-cotton-compact-chong-nhan?color=den
+   màu 'den' (đúng liên kết từ danh sách): S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? 4XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? 4XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT?   (dấu * = đang được chọn sẵn)
+      size đã lọc 'L': còn hàng
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   các màu khác của sản phẩm: ['trang', 'xam', 'xanh-navy']
+   màu 'trang': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'L': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   màu 'xam': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn 4XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'L': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+
+  --- Sản phẩm: https://www.coolmate.me/product/ao-tshirt-regular-chay-bo-nam-360reflect?color=den
+   màu 'den' (đúng liên kết từ danh sách): S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? S:HẾT? M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT? 4XL:HẾT?   (dấu * = đang được chọn sẵn)
+      size đã lọc 'L': còn hàng
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neu'
+         html: <button class="relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neutral-600 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 pointer-events-none cursor
+   các màu khác của sản phẩm: ['tim']
+   màu 'tim': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'L': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neu'
+         html: <button class="relative h-9 min-w-13 rounded-xl bg-neutral-100 p-2 font-sans text-base leading-5 text-neutral-600 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 pointer-events-none cursor
+
+  --- Sản phẩm: https://www.coolmate.me/product/ao-thun-gym-cotton-oversized-comfort-washed?color=den
+   màu 'den' (đúng liên kết từ danh sách): S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn M:HẾT? L:HẾT? XL:HẾT? 2XL:HẾT? 3XL:HẾT?   (dấu * = đang được chọn sẵn)
+      size đã lọc 'L': còn hàng
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'hết': <button> class='inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none'
+         html: <button class="inline-flex items-center justify-center gap-2 whitespace-nowrap focus-visible:outline-none disabled:cursor-not-allowed [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shr
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   các màu khác của sản phẩm: ['xam-dam', 'xanh-nhat']
+   màu 'xam-dam': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'L': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+   màu 'xanh-nhat': S:còn M:còn L:còn XL:còn 2XL:còn 3XL:còn   (dấu * = đang được chọn sẵn)
+      size đã lọc 'L': còn hàng
+      mẫu nút 'còn': <button> class='relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 ho'
+         html: <button class="relative h-9 min-w-13 rounded-xl p-2 font-sans text-base leading-5 hover:bg-neutral-900 hover:text-light lg:h-11 lg:min-w-17.5 bg-neutral-900 text-light lg:bg-neutral-900">S</button>
+
+XONG. Hãy gửi file results\inspect_pdp.txt.

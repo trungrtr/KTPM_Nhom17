@@ -1,0 +1,3 @@
+tc_id,filters,description
+FLT-07a,Hồng|>500.000đ,Màu hồng + giá trên 500.000đ: dự kiến không có sản phẩm (nếu vẫn có thì test skip)
+FLT-07b,Xanh lá|>500.000đ,Màu xanh lá + giá trên 500.000đ: dự kiến không có sản phẩm (nếu vẫn có thì test skip)

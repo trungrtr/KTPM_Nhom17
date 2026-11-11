@@ -18,3 +18,5 @@ evidence/tmp/
 !.env.example
 
 .vs/
+# Ignore all PNG images
+*.png
