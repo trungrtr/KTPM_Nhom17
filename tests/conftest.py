@@ -1,72 +1,10 @@
-"""Conftest riêng cho thư mục tests/ ─ Hook ghi kết quả REG vào CSV.
-
-File CSV đầu ra : results/reg_test_results.csv
-Định dạng mỗi dòng: Test_ID,Status,Duration,Timestamp,Browser
-Ví dụ            : REG-01,passed,0.08,2026-10-20T22:06:07,chrome
-
-Mỗi lần chạy pytest sẽ tạo CSV mới (không nối thêm vào kết quả cũ).
-"""
-
+"""Independent REG and LOG reporting hooks; test behavior is unchanged."""
 import csv
 from datetime import datetime
 from pathlib import Path
 
-# ── Đường dẫn gốc dự án & file CSV ──────────────────────────────
 ROOT = Path(__file__).resolve().parent.parent
-REG_RESULTS_CSV = ROOT / "results" / "reg_test_results.csv"
-
-
-def pytest_sessionstart(session):
-    """Prepare the existing REG directory without clearing unrelated runs."""
-    REG_RESULTS_CSV.parent.mkdir(parents=True, exist_ok=True)
-
-
-def pytest_collection_modifyitems(session, config, items):
-    """Xoá CSV cũ khi bắt đầu phiên chạy mới để chỉ lưu kết quả lần chạy mới nhất."""
-    REG_RESULTS_CSV.parent.mkdir(parents=True, exist_ok=True)
-    if any(item.name.startswith("test_REG_") for item in items) and REG_RESULTS_CSV.exists():
-        REG_RESULTS_CSV.unlink()
-
-
-def pytest_runtest_logreport(report):
-    """Tự động ghi / append kết quả mỗi test REG vào file CSV.
-
-    Chỉ xử lý giai đoạn ``call`` (bỏ qua setup / teardown).
-    Chỉ ghi các test có prefix ``REG`` trong tên hàm (bỏ qua UI, CART…).
-    """
-    # 1. Chỉ quan tâm giai đoạn "call" (thực thi hàm test)
-    if report.when != "call":
-        return
-
-    # 2. Trích tên hàm test, bỏ phần parametrize nếu có
-    node_name = report.nodeid.split("::")[-1]
-    base_name = node_name.split("[")[0]
-
-    # 3. Tách các phần bằng dấu "_"
-    parts = base_name.split("_")
-    if len(parts) < 3 or parts[1] != "REG":
-        return  # Không phải test REG → bỏ qua
-
-    # 4. Ghép Test_ID: "REG-01"
-    tc_id = f"{parts[1]}-{parts[2]}"
-
-    # 5. Tạo thư mục results/ nếu chưa tồn tại
-    REG_RESULTS_CSV.parent.mkdir(parents=True, exist_ok=True)
-
-    # 6. Ghi header khi tạo file mới; append dữ liệu
-    new_file = not REG_RESULTS_CSV.exists()
-    with open(REG_RESULTS_CSV, "a", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        if new_file:
-            writer.writerow(["Test_ID", "Status", "Duration", "Timestamp", "Browser"])
-        writer.writerow([
-            tc_id,                                          # REG-01
-            report.outcome,                                 # passed | failed | skipped
-            round(report.duration, 2),                      # 0.08 | 7.0
-            datetime.now().isoformat(timespec="seconds"),   # 2026-10-20T22:06:07
-            "chrome",                                       # fix cứng trình duyệt
-        ])
-
+pytest_plugins = ["utils.reg_reporting"]
 
 # LOG reporting is independent of REG and includes setup skips and teardown errors.
 import pytest

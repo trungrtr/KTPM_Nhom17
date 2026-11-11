@@ -16,3 +16,5 @@ evidence/tmp/
 .env.txt
 .env.*
 !.env.example
+
+.vs/
