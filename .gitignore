@@ -20,3 +20,5 @@ evidence/tmp/
 .vs/
 # Ignore all PNG images
 *.png
+
+!docs/images/*.png

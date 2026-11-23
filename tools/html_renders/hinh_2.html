@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FFFFFF;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Variable", Roboto, Helvetica, Arial, sans-serif;
+    color: #1E1E1E;
+    padding: 0;
+    margin: 0;
+  }
+  #container {
+    width: 680px;
+    background: #FFFFFF;
+    border: 1px solid #D0D7DE;
+    display: flex;
+    flex-direction: column;
+  }
+  .editor-tab-bar {
+    height: 33px;
+    background: #F3F4F6;
+    border-bottom: 1px solid #E1E4E8;
+    display: flex;
+    align-items: center;
+  }
+  .editor-tab {
+    height: 33px;
+    background: #FFFFFF;
+    border-right: 1px solid #E1E4E8;
+    border-top: 2px solid #005FB8;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    font-size: 12px;
+    color: #24292F;
+    font-weight: 500;
+  }
+  .tab-icon {
+    margin-right: 6px;
+    color: #57606A;
+    font-size: 12px;
+  }
+  .close-icon {
+    margin-left: 10px;
+    color: #8C959F;
+    font-size: 11px;
+    cursor: pointer;
+  }
+  .editor-content {
+    display: flex;
+    background: #FFFFFF;
+    padding: 6px 0;
+    font-family: Consolas, "Cascadia Code", "Courier New", monospace;
+    font-size: 12px;
+    line-height: 1.38;
+  }
+  .line-numbers {
+    width: 40px;
+    text-align: right;
+    padding-right: 12px;
+    color: #8C959F;
+    user-select: none;
+    flex-shrink: 0;
+  }
+  .code-lines {
+    flex: 1;
+    color: #24292F;
+  }
+  .pkg-name {
+    color: #0550AE;
+  }
+  .pkg-ver {
+    color: #116329;
+    font-weight: 500;
+  }
+  .terminal-panel {
+    border-top: 1px solid #D0D7DE;
+    background: #FFFFFF;
+  }
+  .term-tab-bar {
+    height: 30px;
+    background: #FAFAFA;
+    border-bottom: 1px solid #E1E4E8;
+    display: flex;
+    align-items: center;
+    padding: 0 14px;
+    font-size: 11.5px;
+  }
+  .term-tab {
+    color: #57606A;
+    margin-right: 18px;
+    padding: 5px 0;
+  }
+  .term-tab.active {
+    color: #1E1E1E;
+    font-weight: 600;
+    border-bottom: 2px solid #005FB8;
+  }
+  .term-body {
+    padding: 8px 14px 10px 14px;
+    font-family: Consolas, "Cascadia Code", "Courier New", monospace;
+    font-size: 12px;
+    line-height: 1.38;
+    color: #24292F;
+  }
+  .pkg-list {
+    display: grid;
+    grid-template-columns: 200px 100px;
+    row-gap: 1px;
+    margin-bottom: 4px;
+  }
+  .venv-badge {
+    color: #1A7F37;
+    font-weight: 700;
+  }
+  .cmd-kw {
+    color: #005FB8;
+    font-weight: 600;
+  }
+  .cursor-block {
+    display: inline-block;
+    width: 7px;
+    height: 13px;
+    background: #24292F;
+    vertical-align: middle;
+    margin-left: 2px;
+  }
+</style>
+</head>
+<body>
+<div id="container">
+  <div class="editor-tab-bar">
+    <div class="editor-tab">
+      <span class="tab-icon">📄</span>
+      <span>requirements.txt</span>
+      <span class="close-icon">✕</span>
+    </div>
+  </div>
+  <div class="editor-content">
+    <div class="line-numbers">
+1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20<br>21<br>22<br>23<br>24<br>25<br>26<br>27<br>28
+    </div>
+    <div class="code-lines">
+      <div><span class="pkg-name">attrs</span>==<span class="pkg-ver">26.1.0</span></div>
+      <div><span class="pkg-name">certifi</span>==<span class="pkg-ver">2026.7.22</span></div>
+      <div><span class="pkg-name">cffi</span>==<span class="pkg-ver">2.1.1</span></div>
+      <div><span class="pkg-name">charset-normalizer</span>==<span class="pkg-ver">3.5.2</span></div>
+      <div><span class="pkg-name">colorama</span>==<span class="pkg-ver">0.4.6</span></div>
+      <div><span class="pkg-name">h11</span>==<span class="pkg-ver">0.16.0</span></div>
+      <div><span class="pkg-name">idna</span>==<span class="pkg-ver">3.20</span></div>
+      <div><span class="pkg-name">iniconfig</span>==<span class="pkg-ver">2.3.1</span></div>
+      <div><span class="pkg-name">outcome</span>==<span class="pkg-ver">1.3.0.post0</span></div>
+      <div><span class="pkg-name">packaging</span>==<span class="pkg-ver">26.3</span></div>
+      <div><span class="pkg-name">pluggy</span>==<span class="pkg-ver">1.7.0</span></div>
+      <div><span class="pkg-name">pycparser</span>==<span class="pkg-ver">3.11</span></div>
+      <div><span class="pkg-name">Pygments</span>==<span class="pkg-ver">2.21.0</span></div>
+      <div><span class="pkg-name">PySocks</span>==<span class="pkg-ver">1.7.1</span></div>
+      <div><span class="pkg-name">pytest</span>==<span class="pkg-ver">9.1.1</span></div>
+      <div><span class="pkg-name">python-dotenv</span>==<span class="pkg-ver">1.2.4</span></div>
+      <div><span class="pkg-name">requests</span>==<span class="pkg-ver">2.34.2</span></div>
+      <div><span class="pkg-name">selenium</span>==<span class="pkg-ver">4.51.0</span></div>
+      <div><span class="pkg-name">sniffio</span>==<span class="pkg-ver">1.3.1</span></div>
+      <div><span class="pkg-name">sortedcontainers</span>==<span class="pkg-ver">2.4.0</span></div>
+      <div><span class="pkg-name">trio</span>==<span class="pkg-ver">0.34.0</span></div>
+      <div><span class="pkg-name">trio-websocket</span>==<span class="pkg-ver">0.12.2</span></div>
+      <div><span class="pkg-name">typing_extensions</span>==<span class="pkg-ver">4.16.0</span></div>
+      <div><span class="pkg-name">urllib3</span>==<span class="pkg-ver">2.8.0</span></div>
+      <div><span class="pkg-name">webdriver-manager</span>==<span class="pkg-ver">4.1.2</span></div>
+      <div><span class="pkg-name">websocket-client</span>==<span class="pkg-ver">1.9.2</span></div>
+      <div><span class="pkg-name">wsproto</span>==<span class="pkg-ver">1.3.2</span></div>
+      <div>&nbsp;</div>
+    </div>
+  </div>
+  <div class="terminal-panel">
+    <div class="term-tab-bar">
+      <span class="term-tab">Problems</span>
+      <span class="term-tab">Output</span>
+      <span class="term-tab">Debug Console</span>
+      <span class="term-tab active">Terminal</span>
+      <span class="term-tab">Ports</span>
+    </div>
+    <div class="term-body">
+      <div class="pkg-list">
+        <div>sniffio</div><div>1.3.1</div>
+        <div>sortedcontainers</div><div>2.4.0</div>
+        <div>trio</div><div>0.34.0</div>
+        <div>trio-websocket</div><div>0.12.2</div>
+        <div>typing_extensions</div><div>4.16.0</div>
+        <div>urllib3</div><div>2.8.0</div>
+        <div>webdriver-manager</div><div>4.1.2</div>
+        <div>websocket-client</div><div>1.9.2</div>
+        <div>wsproto</div><div>1.3.2</div>
+      </div>
+      <div><span class="venv-badge">(.venv)</span> PS D:\K1_N3\ktpm\coolmate_selenium_test&gt; <span class="cmd-kw">pip</span> freeze &gt; requirements.txt</div>
+      <div><span class="venv-badge">(.venv)</span> PS D:\K1_N3\ktpm\coolmate_selenium_test&gt; <span class="cmd-kw">python</span> -c "import selenium; print(selenium.__version__)"</div>
+      <div style="font-weight: 600; color: #24292F;">4.51.0</div>
+      <div><span class="venv-badge">(.venv)</span> PS D:\K1_N3\ktpm\coolmate_selenium_test&gt;<span class="cursor-block"></span></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FFFFFF;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Variable", Roboto, Helvetica, Arial, sans-serif;
+    color: #1E1E1E;
+    padding: 0;
+    margin: 0;
+  }
+  #container {
+    width: 760px;
+    background: #FFFFFF;
+    border: 1px solid #D0D7DE;
+    display: flex;
+    flex-direction: row;
+  }
+  #sidebar {
+    width: 200px;
+    background: #F8F9FA;
+    border-right: 1px solid #E1E4E8;
+    padding: 9px 12px;
+    flex-shrink: 0;
+  }
+  .explorer-header {
+    font-size: 11px;
+    font-weight: 700;
+    color: #57606A;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  .tree-node {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    color: #24292F;
+    padding: 3px 0;
+    user-select: none;
+  }
+  .tree-node.root {
+    font-weight: 600;
+  }
+  .tree-node.child {
+    padding-left: 18px;
+    color: #424242;
+  }
+  .icon-arrow {
+    display: inline-block;
+    width: 14px;
+    text-align: center;
+    font-size: 10px;
+    margin-right: 4px;
+    color: #57606A;
+  }
+  #main-panel {
+    flex: 1;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .tab-bar {
+    height: 32px;
+    background: #FAFAFA;
+    border-bottom: 1px solid #E1E4E8;
+    display: flex;
+    align-items: center;
+    padding: 0 14px;
+    font-size: 11.5px;
+  }
+  .tab {
+    color: #57606A;
+    margin-right: 18px;
+    padding: 6px 0;
+    display: inline-block;
+  }
+  .tab.active {
+    color: #1E1E1E;
+    font-weight: 600;
+    border-bottom: 2px solid #005FB8;
+  }
+  .terminal-body {
+    padding: 10px 14px 12px 14px;
+    font-family: Consolas, "Cascadia Code", "Courier New", monospace;
+    font-size: 12.5px;
+    line-height: 1.40;
+    background: #FFFFFF;
+    color: #1E1E1E;
+  }
+  .err-block {
+    color: #CF222E;
+  }
+  .cmd-prompt {
+    color: #24292F;
+  }
+  .cmd-kw {
+    color: #005FB8;
+    font-weight: 600;
+  }
+  .cmd-flag {
+    color: #0969DA;
+  }
+  .cmd-val {
+    color: #6F42C1;
+  }
+  .cmd-err {
+    color: #CF222E;
+    font-weight: 600;
+  }
+  .venv-badge {
+    color: #1A7F37;
+    font-weight: 700;
+  }
+  .cursor-block {
+    display: inline-block;
+    width: 7px;
+    height: 13px;
+    background: #24292F;
+    vertical-align: middle;
+    margin-left: 2px;
+  }
+</style>
+</head>
+<body>
+<div id="container">
+  <div id="sidebar">
+    <div class="explorer-header">
+      <span>Explorer</span>
+      <span style="font-size: 14px; font-weight: normal; cursor: pointer;">•••</span>
+    </div>
+    <div class="tree-node root">
+      <span class="icon-arrow">˅</span>
+      <span>coolmate_selenium_test</span>
+    </div>
+    <div class="tree-node child">
+      <span class="icon-arrow">&gt;</span>
+      <span>.venv</span>
+    </div>
+  </div>
+  <div id="main-panel">
+    <div class="tab-bar">
+      <span class="tab">Problems</span>
+      <span class="tab">Output</span>
+      <span class="tab">Debug Console</span>
+      <span class="tab active">Terminal</span>
+      <span class="tab">Ports</span>
+    </div>
+    <div class="terminal-body">
+      <div class="err-block">+ .venv\Scripts\activate</div>
+      <div class="err-block">+ ~~~~~~~~~~~~~~~~~~~~~~</div>
+      <div class="err-block">&nbsp;&nbsp;&nbsp;&nbsp;+ CategoryInfo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SecurityError: (:) [], PSSecurityException</div>
+      <div class="err-block">&nbsp;&nbsp;&nbsp;&nbsp;+ FullyQualifiedErrorId : UnauthorizedAccess</div>
+      <div><span class="cmd-prompt">PS D:\K1_N3\ktpm\coolmate_selenium_test&gt;</span> <span class="cmd-kw">python</span> .venv\Scripts\activate</div>
+      <div>File "D:\K1_N3\ktpm\coolmate_selenium_test\.venv\Scripts\activate", line 41</div>
+      <div>&nbsp;&nbsp;CYGWIN* |MSYS* |MINGW*)</div>
+      <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^</div>
+      <div class="cmd-err">SyntaxError: unmatched ')'</div>
+      <div><span class="cmd-prompt">PS D:\K1_N3\ktpm\coolmate_selenium_test&gt;</span> <span class="cmd-kw">Set-ExecutionPolicy</span> <span class="cmd-flag">-ExecutionPolicy</span> <span class="cmd-val">RemoteSigned</span> <span class="cmd-flag">-Scope</span> <span class="cmd-val">CurrentUser</span></div>
+      <div><span class="cmd-prompt">PS D:\K1_N3\ktpm\coolmate_selenium_test&gt;</span> ^C</div>
+      <div><span class="cmd-prompt">PS D:\K1_N3\ktpm\coolmate_selenium_test&gt;</span> .venv\Scripts\activate</div>
+      <div><span class="venv-badge">(.venv)</span> <span class="cmd-prompt">PS D:\K1_N3\ktpm\coolmate_selenium_test&gt;</span><span class="cursor-block"></span></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
