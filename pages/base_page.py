@@ -117,5 +117,19 @@ class BasePage:
                 pass
 
     def take_screenshot(self, name, sub="manual"):
-        """Theo yêu cầu: không xuất ảnh chụp màn hình, chỉ lưu trữ vết log."""
-        pass
+        """Lưu ảnh màn hình vào evidence/auto hoặc evidence/manual."""
+        if sub not in ("auto", "manual"):
+            raise ValueError("Screenshot folder must be 'auto' or 'manual'")
+
+        filename = "".join(
+            char if char.isalnum() or char in "-_" else "_" for char in str(name)
+        ).strip("_")
+        if not filename:
+            raise ValueError("Screenshot name must contain a valid character")
+
+        folder = EVIDENCE_DIR / sub
+        folder.mkdir(parents=True, exist_ok=True)
+        path = folder / f"{filename}_{datetime.now():%Y%m%d_%H%M%S_%f}.png"
+        if not self.driver.save_screenshot(str(path)):
+            raise OSError(f"WebDriver could not save screenshot: {path}")
+        return path
