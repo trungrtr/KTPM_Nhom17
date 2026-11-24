@@ -1,52 +1,75 @@
 ﻿import pymupdf
 import cv2
+import numpy as np
 import shutil
 import os
 
-pdf_orig = r'docs/260903 - So tay mon hoc SoftwareTesting - IT6084.3 - Confirmation_sheet (4).pdf'
-
-# Backup original once if not already backed up
-backup_path = r'docs/260903 - So tay mon hoc SoftwareTesting - IT6084.3 - Confirmation_sheet (4)_original.pdf'
-if not os.path.exists(backup_path):
-    shutil.copyfile(pdf_orig, backup_path)
-
-doc = pymupdf.open(backup_path)
+pdf_orig = r'docs/260903 - So tay mon hoc SoftwareTesting - IT6084.3 - Confirmation_sheet (4)_original.pdf'
+doc = pymupdf.open(pdf_orig)
 page = doc[0]
 
-# High-res insertion paths
-trung_png = 'tools/insert_trung.png'
-mem_png = 'tools/insert_members.png'
+# 1. Redact / remove all '(Ký, họ tên)' occurrences
+rects = page.search_for('(Ký, họ tên)')
+print(f"Redacting {len(rects)} occurrences of (Ký, họ tên)...")
+for r in rects:
+    # Slightly expand redaction box by 0.5pt to ensure no text edge artifacts remain
+    r_exp = pymupdf.Rect(r.x0 - 1, r.y0 - 1, r.x1 + 1, r.y1 + 1)
+    page.add_redact_annot(r_exp, fill=(1, 1, 1))
 
-# 1. Trung signature position (scaled to be nicely visible and centered):
-# Center x = 425.0
-# Width = 46.0 pt -> x0 = 402.0, x1 = 448.0
-# y0 = 733.5, y1 = 766.0 (height = 32.5 pt)
-rect_trung = pymupdf.Rect(402.0, 733.5, 448.0, 766.0)
-page.insert_image(rect_trung, filename=trung_png, keep_proportion=True)
+page.apply_redactions()
 
-# 2. Members signatures position (scaled to be to và rõ, centered under Thành viên nhóm):
-# Center x = 242.5
-# Width = 92.0 pt -> x0 = 196.5, x1 = 288.5
-# y0 = 736.5, y1 = 821.5 (height = 85.0 pt)
-rect_mem = pymupdf.Rect(196.5, 736.5, 288.5, 821.5)
-page.insert_image(rect_mem, filename=mem_png, keep_proportion=True)
+# 2. Prepare cropped HD signatures
+trung_hd = cv2.imread('tools/trung_hd.png', cv2.IMREAD_UNCHANGED)
+mem_hd = cv2.imread('tools/members_hd.png', cv2.IMREAD_UNCHANGED)
 
-# Save to both the original path and the _signed path
-signed_path = r'docs/260903 - So tay mon hoc SoftwareTesting - IT6084.3 - Confirmation_sheet (4)_signed.pdf'
-doc.save(signed_path)
-doc.save(pdf_orig)
-doc.close()
+# Crop to tight bounding box with 6px padding
+a_t = trung_hd[:, :, 3]
+yt, xt = np.where(a_t > 20)
+trung_tight = trung_hd[max(0, np.min(yt)-6):min(trung_hd.shape[0], np.max(yt)+7),
+                       max(0, np.min(xt)-6):min(trung_hd.shape[1], np.max(xt)+7)]
 
-# Also copy to artifact dir for download
+a_m = mem_hd[:, :, 3]
+ym, xm = np.where(a_m > 20)
+mem_tight = mem_hd[max(0, np.min(ym)-6):min(mem_hd.shape[0], np.max(ym)+7),
+                   max(0, np.min(xm)-6):min(mem_hd.shape[1], np.max(xm)+7)]
+
+cv2.imwrite('tools/trung_tight_hd.png', trung_tight)
+cv2.imwrite('tools/members_tight_hd.png', mem_tight)
+print(f"trung_tight_hd: {trung_tight.shape}, members_tight_hd: {mem_tight.shape}")
+
+# 3. Insert Trung signature
+# Box: y in [725.0, 764.5], centered at x = 425.0, width = 48.0 pt
+rect_trung = pymupdf.Rect(401.0, 725.0, 449.0, 764.5)
+page.insert_image(rect_trung, filename='tools/trung_tight_hd.png', keep_proportion=True)
+
+# 4. Insert Members signatures
+# Box: y in [726.0, 818.0], centered at x = 242.5, width = 96.0 pt
+rect_mem = pymupdf.Rect(194.5, 726.0, 290.5, 818.0)
+page.insert_image(rect_mem, filename='tools/members_tight_hd.png', keep_proportion=True)
+
+# 5. Save output PDFs
+target_pdf = r'docs/260903 - So tay mon hoc SoftwareTesting - IT6084.3 - Confirmation_sheet (4).pdf'
+signed_pdf = r'docs/260903 - So tay mon hoc SoftwareTesting - IT6084.3 - Confirmation_sheet (4)_signed.pdf'
 artifact_dir = r"C:\Users\daoqu\.gemini\antigravity\brain\86b168a6-89e3-416c-b5ed-b66361bda13a"
 dest_pdf = os.path.join(artifact_dir, "Confirmation_sheet_Nhom17_signed.pdf")
-shutil.copyfile(pdf_orig, dest_pdf)
 
-# Render high-res 300 DPI preview for inspection
-doc_final = pymupdf.open(pdf_orig)
-page_final = doc_final[0]
-pix = page_final.get_pixmap(dpi=300)
+doc.save(target_pdf)
+doc.save(signed_pdf)
+doc.close()
+shutil.copyfile(target_pdf, dest_pdf)
+
+# 6. Render high-res 300 DPI preview
+doc_out = pymupdf.open(target_pdf)
+page_out = doc_out[0]
+pix = page_out.get_pixmap(dpi=300)
 preview_path = os.path.join(artifact_dir, "preview_signed_confirmation_sheet.png")
 pix.save(preview_path)
-print(f"Saved signed PDF to:\n - {pdf_orig}\n - {signed_path}\n - {dest_pdf}")
-print(f"Saved 300 DPI preview to: {preview_path} ({pix.width}x{pix.height})")
+
+# Also render close-up zoom at 300 DPI
+preview_bgr = cv2.imread(preview_path)
+h, w, c = preview_bgr.shape
+sig_zoom = preview_bgr[int(h * 0.82):int(h * 0.98), int(w * 0.15):int(w * 0.90)]
+zoom_path = os.path.join(artifact_dir, "preview_signature_zoom.png")
+cv2.imwrite(zoom_path, sig_zoom)
+
+print("SUCCESS: PDF updated, 300 DPI preview and zoom generated!")
